@@ -36,504 +36,504 @@
       "name": "Alphabet",
       "category": "Typography",
       "num_images": 28,
-      "url": "lock_screen/json/alphabet.json"
+      "url": "alphabet.json"
     },
     {
       "id": 2,
       "name": "Weather",
       "category": "Objects",
       "num_images": 25,
-      "url": "lock_screen/json/weather.json"
+      "url": "weather.json"
     },
     {
       "id": 3,
       "name": "Cute Halloween",
       "category": "Holiday,Cute",
       "num_images": 50,
-      "url": "lock_screen/json/cute_halloween.json"
+      "url": "cute_halloween.json"
     },
     {
       "id": 12,
       "name": "Halloween",
       "category": "Holiday",
       "num_images": 50,
-      "url": "lock_screen/json/halloween.json"
+      "url": "halloween.json"
     },
     {
       "id": 13,
       "name": "Halloween 2",
       "category": "Holiday",
       "num_images": 50,
-      "url": "lock_screen/json/halloween2.json"
+      "url": "halloween2.json"
     },
     {
       "id": 4,
       "name": "Animals",
       "category": "Animals,Cute",
       "num_images": 50,
-      "url": "lock_screen/json/animals.json"
+      "url": "animals.json"
     },
     {
       "id": 5,
       "name": "Animals",
       "category": "Character,Cute",
       "num_images": 60,
-      "url": "lock_screen/json/pokemon.json"
+      "url": "pokemon.json"
     },
     {
       "id": 6,
       "name": "Superhero",
       "category": "Character,Cute",
       "num_images": 60,
-      "url": "lock_screen/json/superhero.json"
+      "url": "superhero.json"
     },
     {
       "id": 7,
       "name": "Birthday",
       "category": "Holiday",
       "num_images": 26,
-      "url": "lock_screen/json/birthday.json"
+      "url": "birthday.json"
     },
     {
       "id": 8,
       "name": "Black Friday",
       "category": "Holiday",
       "num_images": 25,
-      "url": "lock_screen/json/black_friday.json"
+      "url": "black_friday.json"
     },
     {
       "id": 10,
       "name": "Christmas",
       "category": "Holiday",
       "num_images": 25,
-      "url": "lock_screen/json/christmas.json"
+      "url": "christmas.json"
     },
     {
       "id": 11,
       "name": "Fathers Day",
       "category": "Holiday",
       "num_images": 25,
-      "url": "lock_screen/json/fathers_day.json"
+      "url": "fathers_day.json"
     },
     {
       "id": 14,
       "name": "Mothers Day",
       "category": "Holiday",
       "num_images": 25,
-      "url": "lock_screen/json/mothers_day.json"
+      "url": "mothers_day.json"
     },
     {
       "id": 15,
       "name": "New Year",
       "category": "Holiday",
       "num_images": 25,
-      "url": "lock_screen/json/new_year.json"
+      "url": "new_year.json"
     },
     {
       "id": 9,
       "name": "Animals 2",
       "category": "Animals",
       "num_images": 50,
-      "url": "lock_screen/json/animals2.json"
+      "url": "animals2.json"
     },
     {
       "id": 16,
       "name": "Butterflies",
       "category": "Animals",
       "num_images": 50,
-      "url": "lock_screen/json/butterflies.json"
+      "url": "butterflies.json"
     },
     {
       "id": 17,
       "name": "Capybara",
       "category": "Animals",
       "num_images": 20,
-      "url": "lock_screen/json/capybara.json"
+      "url": "capybara.json"
     },
     {
       "id": 18,
       "name": "Cosy Creatures",
       "category": "Animals",
       "num_images": 30,
-      "url": "lock_screen/json/cosy_creatures.json"
+      "url": "cosy_creatures.json"
     },
     {
       "id": 19,
       "name": "Dinosaur",
       "category": "Animals",
       "num_images": 25,
-      "url": "lock_screen/json/dinosaur.json"
+      "url": "dinosaur.json"
     },
     {
       "id": 21,
       "name": "Dogs",
       "category": "Animals",
       "num_images": 31,
-      "url": "lock_screen/json/dogs.json"
+      "url": "dogs.json"
     },
     {
       "id": 23,
       "name": "Kawaii Animals 2",
       "category": "Animals,Kawaii",
       "num_images": 50,
-      "url": "lock_screen/json/kawaii_animals2.json"
+      "url": "kawaii_animals2.json"
     },
     {
       "id": 24,
       "name": "Monster",
       "category": "Animals",
       "num_images": 50,
-      "url": "lock_screen/json/monster.json"
+      "url": "monster.json"
     },
     {
       "id": 25,
       "name": "Pokemon Go",
       "category": "Character",
       "num_images": 100,
-      "url": "lock_screen/json/pokemon_go.json"
+      "url": "pokemon_go.json"
     },
     {
       "id": 26,
       "name": "Sea Life",
       "category": "Animals",
       "num_images": 50,
-      "url": "lock_screen/json/sea_life.json"
+      "url": "sea_life.json"
     },
     {
       "id": 27,
       "name": "Unicorn",
       "category": "Animals",
       "num_images": 50,
-      "url": "lock_screen/json/unicorn.json"
+      "url": "unicorn.json"
     },
     {
       "id": 28,
       "name": "World Oceans",
       "category": "Animals",
       "num_images": 24,
-      "url": "lock_screen/json/world_oceans.json"
+      "url": "world_oceans.json"
     },
     {
       "id": 20,
       "name": "Podcast",
       "category": "Objects",
       "num_images": 24,
-      "url": "lock_screen/json/podcast.json"
+      "url": "podcast.json"
     },
     {
       "id": 29,
       "name": "Love",
       "category": "Objects",
       "num_images": 20,
-      "url": "lock_screen/json/love.json"
+      "url": "love.json"
     },
     {
       "id": 30,
       "name": "Insect",
       "category": "Animals",
       "num_images": 20,
-      "url": "lock_screen/json/insect.json"
+      "url": "insect.json"
     },
     {
       "id": 31,
       "name": "Football Shields",
       "category": "Objects",
       "num_images": 30,
-      "url": "lock_screen/json/football_shields.json"
+      "url": "football_shields.json"
     },
     {
       "id": 32,
       "name": "Cute Robots",
       "category": "Objects,Cute",
       "num_images": 50,
-      "url": "lock_screen/json/cute_robots.json"
+      "url": "cute_robots.json"
     },
     {
       "id": 33,
       "name": "Alphabet 2",
       "category": "Typography",
       "num_images": 50,
-      "url": "lock_screen/json/alphabet2.json"
+      "url": "alphabet2.json"
     },
     {
       "id": 34,
       "name": "Chill out",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/chill_out.json"
+      "url": "chill_out.json"
     },
     {
       "id": 35,
       "name": "Days, Months & Seasons",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/days_months_seasons.json"
+      "url": "days_months_seasons.json"
     },
     {
       "id": 36,
       "name": "Catchwords",
       "category": "Typography",
       "num_images": 27,
-      "url": "lock_screen/json/catchwords.json"
+      "url": "catchwords.json"
     },
     {
       "id": 37,
       "name": "Ecology",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/ecology.json"
+      "url": "ecology.json"
     },
     {
       "id": 38,
       "name": "Ecology 2",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/ecology2.json"
+      "url": "ecology2.json"
     },
     {
       "id": 39,
       "name": "Expressions",
       "category": "Typography",
       "num_images": 21,
-      "url": "lock_screen/json/expressions.json"
+      "url": "expressions.json"
     },
     {
       "id": 40,
       "name": "Greetings",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/greetings.json"
+      "url": "greetings.json"
     },
     {
       "id": 41,
       "name": "Greetings 2",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/greetings2.json"
+      "url": "greetings2.json"
     },
     {
       "id": 42,
       "name": "Instagram",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/instagram.json"
+      "url": "instagram.json"
     },
     {
       "id": 43,
       "name": "Instagram 2",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/instagram2.json"
+      "url": "instagram2.json"
     },
     {
       "id": 44,
       "name": "Motorcycle",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/motorcycle.json"
+      "url": "motorcycle.json"
     },
     {
       "id": 45,
       "name": "Motorcycle 2",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/motorcycle2.json"
+      "url": "motorcycle2.json"
     },
     {
       "id": 46,
       "name": "Onomatopoeias",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/onomatopoeias.json"
+      "url": "onomatopoeias.json"
     },
     {
       "id": 47,
       "name": "Vegan",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/vegan.json"
+      "url": "vegan.json"
     },
     {
       "id": 48,
       "name": "Vegan 2",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/vegan2.json"
+      "url": "vegan2.json"
     },
     {
       "id": 49,
       "name": "Travel",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/travel.json"
+      "url": "travel.json"
     },
     {
       "id": 50,
       "name": "Travel 2",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/travel2.json"
+      "url": "travel2.json"
     },
     {
       "id": 51,
       "name": "Work",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/work.json"
+      "url": "work.json"
     },
     {
       "id": 52,
       "name": "Work 2",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/work2.json"
+      "url": "work2.json"
     },
     {
       "id": 53,
       "name": "Back to School",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/back_to_school.json"
+      "url": "back_to_school.json"
     },
     {
       "id": 54,
       "name": "Back to School 2",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/back_to_school2.json"
+      "url": "back_to_school2.json"
     },
     {
       "id": 55,
       "name": "Back to School 3",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/back_to_school3.json"
+      "url": "back_to_school3.json"
     },
     {
       "id": 56,
       "name": "Support",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/support.json"
+      "url": "support.json"
     },
     {
       "id": 57,
       "name": "Support 2",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/support2.json"
+      "url": "support2.json"
     },
     {
       "id": 58,
       "name": "Thank you",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/thank_you.json"
+      "url": "thank_you.json"
     },
     {
       "id": 59,
       "name": "Thank you 2",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/thank_you2.json"
+      "url": "thank_you2.json"
     },
     {
       "id": 60,
       "name": "Success",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/success.json"
+      "url": "success.json"
     },
     {
       "id": 61,
       "name": "Planner",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/planner.json"
+      "url": "planner.json"
     },
     {
       "id": 62,
       "name": "Planner 2",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/planner2.json"
+      "url": "planner2.json"
     },
     {
       "id": 63,
       "name": "Planner 3",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/planner3.json"
+      "url": "planner3.json"
     },
     {
       "id": 64,
       "name": "Planner 4",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/planner4.json"
+      "url": "planner4.json"
     },
     {
       "id": 65,
       "name": "Lettering Greetings",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/lettering_greetings.json"
+      "url": "lettering_greetings.json"
     },
     {
       "id": 66,
       "name": "Lettering Positivity",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/lettering_positivity.json"
+      "url": "lettering_positivity.json"
     },
     {
       "id": 67,
       "name": "Lettering Positivity 2",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/lettering_positivity2.json"
+      "url": "lettering_positivity2.json"
     },
     {
       "id": 68,
       "name": "Lettering Positivity 3",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/lettering_positivity3.json"
+      "url": "lettering_positivity3.json"
     },
     {
       "id": 69,
       "name": "Lettering Expressions",
       "category": "Typography",
       "num_images": 24,
-      "url": "lock_screen/json/positive_expressions.json"
+      "url": "positive_expressions.json"
     },
     {
       "id": 70,
       "name": "Lettering Expressions 2",
       "category": "Typography",
       "num_images": 24,
-      "url": "lock_screen/json/positive_expressions2.json"
+      "url": "positive_expressions2.json"
     },
     {
       "id": 71,
       "name": "Lettering Support",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/lettering_support.json"
+      "url": "lettering_support.json"
     },
     {
       "id": 72,
       "name": "Lettering Football",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/lettering_football.json"
+      "url": "lettering_football.json"
     },
     {
       "id": 73,
       "name": "Lettering Love",
       "category": "Typography",
       "num_images": 20,
-      "url": "lock_screen/json/lettering_love.json"
+      "url": "lettering_love.json"
     }
   ]
 }
