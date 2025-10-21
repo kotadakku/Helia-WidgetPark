@@ -1,0 +1,226 @@
+[
+  {
+    "id": 10011,
+    "style": 2,
+    "name": "F",
+    "end_point": "alphabet/alphabet_1",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10012,
+    "style": 2,
+    "name": "C",
+    "end_point": "alphabet/alphabet_2",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10013,
+    "style": 2,
+    "name": "J",
+    "end_point": "alphabet/alphabet_3",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10014,
+    "style": 2,
+    "name": "K",
+    "end_point": "alphabet/alphabet_4",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10015,
+    "style": 2,
+    "name": "L",
+    "end_point": "alphabet/alphabet_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10016,
+    "style": 2,
+    "name": "M",
+    "end_point": "alphabet/alphabet_6",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10017,
+    "style": 2,
+    "name": "N",
+    "end_point": "alphabet/alphabet_7",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10018,
+    "style": 2,
+    "name": "O",
+    "end_point": "alphabet/alphabet_8",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10019,
+    "style": 2,
+    "name": "P",
+    "end_point": "alphabet/alphabet_9",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100110,
+    "style": 2,
+    "name": "Q",
+    "end_point": "alphabet/alphabet_10",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100111,
+    "style": 2,
+    "name": "R",
+    "end_point": "alphabet/alphabet_11",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100112,
+    "style": 2,
+    "name": "S",
+    "end_point": "alphabet/alphabet_12",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100113,
+    "style": 2,
+    "name": "A",
+    "end_point": "alphabet/alphabet_13",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100114,
+    "style": 2,
+    "name": "T",
+    "end_point": "alphabet/alphabet_14",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100115,
+    "style": 2,
+    "name": "U",
+    "end_point": "alphabet/alphabet_15",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100116,
+    "style": 2,
+    "name": "V",
+    "end_point": "alphabet/alphabet_16",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100117,
+    "style": 2,
+    "name": "W",
+    "end_point": "alphabet/alphabet_17",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100118,
+    "style": 2,
+    "name": "X",
+    "end_point": "alphabet/alphabet_18",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100119,
+    "style": 2,
+    "name": "Y",
+    "end_point": "alphabet/alphabet_19",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100120,
+    "style": 2,
+    "name": "Z",
+    "end_point": "alphabet/alphabet_20",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100121,
+    "style": 2,
+    "name": "U",
+    "end_point": "alphabet/alphabet_21",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100122,
+    "style": 2,
+    "name": "?",
+    "end_point": "alphabet/alphabet_22",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100123,
+    "style": 2,
+    "name": "!",
+    "end_point": "alphabet/alphabet_23",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100124,
+    "style": 2,
+    "name": "B",
+    "end_point": "alphabet/alphabet_24",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100125,
+    "style": 2,
+    "name": "D",
+    "end_point": "alphabet/alphabet_25",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100126,
+    "style": 2,
+    "name": "E",
+    "end_point": "alphabet/alphabet_26",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100127,
+    "style": 2,
+    "name": "G",
+    "end_point": "alphabet/alphabet_27",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100128,
+    "style": 2,
+    "name": "H",
+    "end_point": "alphabet/alphabet_28",
+    "family": "accessoryCircular",
+    "premium": true
+  }
+]

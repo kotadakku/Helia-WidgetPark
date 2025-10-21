@@ -1,0 +1,162 @@
+[
+  {
+    "id": 10171,
+    "style": 2,
+    "name": "Capybara 1",
+    "end_point": "capybara/capybara_1",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10172,
+    "style": 2,
+    "name": "Capybara 2",
+    "end_point": "capybara/capybara_2",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10173,
+    "style": 2,
+    "name": "Capybara 3",
+    "end_point": "capybara/capybara_3",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10174,
+    "style": 2,
+    "name": "Capybara 4",
+    "end_point": "capybara/capybara_4",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10175,
+    "style": 2,
+    "name": "Capybara 5",
+    "end_point": "capybara/capybara_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10176,
+    "style": 2,
+    "name": "Capybara 6",
+    "end_point": "capybara/capybara_6",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10177,
+    "style": 2,
+    "name": "Capybara 7",
+    "end_point": "capybara/capybara_7",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10178,
+    "style": 2,
+    "name": "Capybara 8",
+    "end_point": "capybara/capybara_8",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10179,
+    "style": 2,
+    "name": "Capybara 9",
+    "end_point": "capybara/capybara_9",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101710,
+    "style": 2,
+    "name": "Capybara 10",
+    "end_point": "capybara/capybara_10",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101711,
+    "style": 2,
+    "name": "Capybara 11",
+    "end_point": "capybara/capybara_11",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101712,
+    "style": 2,
+    "name": "Capybara 12",
+    "end_point": "capybara/capybara_12",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101713,
+    "style": 2,
+    "name": "Capybara 13",
+    "end_point": "capybara/capybara_13",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101714,
+    "style": 2,
+    "name": "Capybara 14",
+    "end_point": "capybara/capybara_14",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101715,
+    "style": 2,
+    "name": "Capybara 15",
+    "end_point": "capybara/capybara_15",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101716,
+    "style": 2,
+    "name": "Capybara 16",
+    "end_point": "capybara/capybara_16",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101717,
+    "style": 2,
+    "name": "Capybara 17",
+    "end_point": "capybara/capybara_17",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101718,
+    "style": 2,
+    "name": "Capybara 18",
+    "end_point": "capybara/capybara_18",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101719,
+    "style": 2,
+    "name": "Capybara 19",
+    "end_point": "capybara/capybara_19",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101720,
+    "style": 2,
+    "name": "Capybara 20",
+    "end_point": "capybara/capybara_20",
+    "family": "accessoryCircular",
+    "premium": false
+  }
+]

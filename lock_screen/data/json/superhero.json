@@ -1,0 +1,402 @@
+[
+  {
+    "id": "10061",
+    "style": 2,
+    "name": "Superhero 1",
+    "end_point": "superhero/superhero_1",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "10062",
+    "style": 2,
+    "name": "Superhero 2",
+    "end_point": "superhero/superhero_2",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "10063",
+    "style": 2,
+    "name": "Superhero 3",
+    "end_point": "superhero/superhero_3",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "10064",
+    "style": 2,
+    "name": "Superhero 4",
+    "end_point": "superhero/superhero_4",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "10065",
+    "style": 2,
+    "name": "Superhero 5",
+    "end_point": "superhero/superhero_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "10066",
+    "style": 2,
+    "name": "Superhero 6",
+    "end_point": "superhero/superhero_6",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "10067",
+    "style": 2,
+    "name": "Superhero 7",
+    "end_point": "superhero/superhero_7",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "10068",
+    "style": 2,
+    "name": "Superhero 8",
+    "end_point": "superhero/superhero_8",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "10069",
+    "style": 2,
+    "name": "Superhero 9",
+    "end_point": "superhero/superhero_9",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100610",
+    "style": 2,
+    "name": "Superhero 10",
+    "end_point": "superhero/superhero_10",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "100611",
+    "style": 2,
+    "name": "Superhero 11",
+    "end_point": "superhero/superhero_11",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100612",
+    "style": 2,
+    "name": "Superhero 12",
+    "end_point": "superhero/superhero_12",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "100613",
+    "style": 2,
+    "name": "Superhero 13",
+    "end_point": "superhero/superhero_13",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100614",
+    "style": 2,
+    "name": "Superhero 14",
+    "end_point": "superhero/superhero_14",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "100615",
+    "style": 2,
+    "name": "Superhero 15",
+    "end_point": "superhero/superhero_15",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100616",
+    "style": 2,
+    "name": "Superhero 16",
+    "end_point": "superhero/superhero_16",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100617",
+    "style": 2,
+    "name": "Superhero 17",
+    "end_point": "superhero/superhero_17",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "100618",
+    "style": 2,
+    "name": "Superhero 18",
+    "end_point": "superhero/superhero_18",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100619",
+    "style": 2,
+    "name": "Superhero 19",
+    "end_point": "superhero/superhero_19",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "100620",
+    "style": 2,
+    "name": "Superhero 20",
+    "end_point": "superhero/superhero_20",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "100621",
+    "style": 2,
+    "name": "Superhero 21",
+    "end_point": "superhero/superhero_21",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100622",
+    "style": 2,
+    "name": "Superhero 22",
+    "end_point": "superhero/superhero_22",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100623",
+    "style": 2,
+    "name": "Superhero 23",
+    "end_point": "superhero/superhero_23",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "100624",
+    "style": 2,
+    "name": "Superhero 24",
+    "end_point": "superhero/superhero_24",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100625",
+    "style": 2,
+    "name": "Superhero 25",
+    "end_point": "superhero/superhero_25",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "100626",
+    "style": 2,
+    "name": "Superhero 26",
+    "end_point": "superhero/superhero_26",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100627",
+    "style": 2,
+    "name": "Superhero 27",
+    "end_point": "superhero/superhero_27",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "100628",
+    "style": 2,
+    "name": "Superhero 28",
+    "end_point": "superhero/superhero_28",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100629",
+    "style": 2,
+    "name": "Superhero 29",
+    "end_point": "superhero/superhero_29",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "100630",
+    "style": 2,
+    "name": "Superhero 30",
+    "end_point": "superhero/superhero_30",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100631",
+    "style": 2,
+    "name": "Superhero 31",
+    "end_point": "superhero/superhero_31",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "100632",
+    "style": 2,
+    "name": "Superhero 32",
+    "end_point": "superhero/superhero_32",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "100633",
+    "style": 2,
+    "name": "Superhero 33",
+    "end_point": "superhero/superhero_33",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100634",
+    "style": 2,
+    "name": "Superhero 34",
+    "end_point": "superhero/superhero_34",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100635",
+    "style": 2,
+    "name": "Superhero 35",
+    "end_point": "superhero/superhero_35",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "100636",
+    "style": 2,
+    "name": "Superhero 36",
+    "end_point": "superhero/superhero_36",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100637",
+    "style": 2,
+    "name": "Superhero 37",
+    "end_point": "superhero/superhero_37",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "100638",
+    "style": 2,
+    "name": "Superhero 38",
+    "end_point": "superhero/superhero_38",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100639",
+    "style": 2,
+    "name": "Superhero 39",
+    "end_point": "superhero/superhero_39",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "100640",
+    "style": 2,
+    "name": "Superhero 40",
+    "end_point": "superhero/superhero_40",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "100641",
+    "style": 2,
+    "name": "Superhero 41",
+    "end_point": "superhero/superhero_41",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100642",
+    "style": 2,
+    "name": "Superhero 42",
+    "end_point": "superhero/superhero_42",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100643",
+    "style": 2,
+    "name": "Superhero 43",
+    "end_point": "superhero/superhero_43",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "100644",
+    "style": 2,
+    "name": "Superhero 44",
+    "end_point": "superhero/superhero_44",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100645",
+    "style": 2,
+    "name": "Superhero 45",
+    "end_point": "superhero/superhero_45",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "100646",
+    "style": 2,
+    "name": "Superhero 46",
+    "end_point": "superhero/superhero_46",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100647",
+    "style": 2,
+    "name": "Superhero 47",
+    "end_point": "superhero/superhero_47",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "100648",
+    "style": 2,
+    "name": "Superhero 48",
+    "end_point": "superhero/superhero_48",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": "100649",
+    "style": 2,
+    "name": "Superhero 49",
+    "end_point": "superhero/superhero_49",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": "100650",
+    "style": 2,
+    "name": "Superhero 50",
+    "end_point": "superhero/superhero_50",
+    "family": "accessoryCircular",
+    "premium": false
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": 10561,
+    "style": 2,
+    "name": "Support 1",
+    "end_point": "support/support_1",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10562,
+    "style": 2,
+    "name": "Support 2",
+    "end_point": "support/support_2",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10563,
+    "style": 2,
+    "name": "Support 3",
+    "end_point": "support/support_3",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10564,
+    "style": 2,
+    "name": "Support 4",
+    "end_point": "support/support_4",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10565,
+    "style": 2,
+    "name": "Support 5",
+    "end_point": "support/support_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10566,
+    "style": 2,
+    "name": "Support 6",
+    "end_point": "support/support_6",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10567,
+    "style": 2,
+    "name": "Support 7",
+    "end_point": "support/support_7",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10568,
+    "style": 2,
+    "name": "Support 8",
+    "end_point": "support/support_8",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10569,
+    "style": 2,
+    "name": "Support 9",
+    "end_point": "support/support_9",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 105610,
+    "style": 2,
+    "name": "Support 10",
+    "end_point": "support/support_10",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 105611,
+    "style": 2,
+    "name": "Support 11",
+    "end_point": "support/support_11",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 105612,
+    "style": 2,
+    "name": "Support 12",
+    "end_point": "support/support_12",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 105613,
+    "style": 2,
+    "name": "Support 13",
+    "end_point": "support/support_13",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 105614,
+    "style": 2,
+    "name": "Support 14",
+    "end_point": "support/support_14",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 105615,
+    "style": 2,
+    "name": "Support 15",
+    "end_point": "support/support_15",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 105616,
+    "style": 2,
+    "name": "Support 16",
+    "end_point": "support/support_16",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 105617,
+    "style": 2,
+    "name": "Support 17",
+    "end_point": "support/support_17",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 105618,
+    "style": 2,
+    "name": "Support 18",
+    "end_point": "support/support_18",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 105619,
+    "style": 2,
+    "name": "Support 19",
+    "end_point": "support/support_19",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 105620,
+    "style": 2,
+    "name": "Support 20",
+    "end_point": "support/support_20",
+    "family": "accessoryCircular",
+    "premium": true
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": 10711,
+    "style": 2,
+    "name": "Lettering Support 1",
+    "end_point": "lettering_support/lettering_support_1",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10712,
+    "style": 2,
+    "name": "Lettering Support 2",
+    "end_point": "lettering_support/lettering_support_2",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10713,
+    "style": 2,
+    "name": "Lettering Support 3",
+    "end_point": "lettering_support/lettering_support_3",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10714,
+    "style": 2,
+    "name": "Lettering Support 4",
+    "end_point": "lettering_support/lettering_support_4",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10715,
+    "style": 2,
+    "name": "Lettering Support 5",
+    "end_point": "lettering_support/lettering_support_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10716,
+    "style": 2,
+    "name": "Lettering Support 6",
+    "end_point": "lettering_support/lettering_support_6",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10717,
+    "style": 2,
+    "name": "Lettering Support 7",
+    "end_point": "lettering_support/lettering_support_7",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10718,
+    "style": 2,
+    "name": "Lettering Support 8",
+    "end_point": "lettering_support/lettering_support_8",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10719,
+    "style": 2,
+    "name": "Lettering Support 9",
+    "end_point": "lettering_support/lettering_support_9",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 107110,
+    "style": 2,
+    "name": "Lettering Support 10",
+    "end_point": "lettering_support/lettering_support_10",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 107111,
+    "style": 2,
+    "name": "Lettering Support 11",
+    "end_point": "lettering_support/lettering_support_11",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 107112,
+    "style": 2,
+    "name": "Lettering Support 12",
+    "end_point": "lettering_support/lettering_support_12",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 107113,
+    "style": 2,
+    "name": "Lettering Support 13",
+    "end_point": "lettering_support/lettering_support_13",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 107114,
+    "style": 2,
+    "name": "Lettering Support 14",
+    "end_point": "lettering_support/lettering_support_14",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 107115,
+    "style": 2,
+    "name": "Lettering Support 15",
+    "end_point": "lettering_support/lettering_support_15",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 107116,
+    "style": 2,
+    "name": "Lettering Support 16",
+    "end_point": "lettering_support/lettering_support_16",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 107117,
+    "style": 2,
+    "name": "Lettering Support 17",
+    "end_point": "lettering_support/lettering_support_17",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 107118,
+    "style": 2,
+    "name": "Lettering Support 18",
+    "end_point": "lettering_support/lettering_support_18",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 107119,
+    "style": 2,
+    "name": "Lettering Support 19",
+    "end_point": "lettering_support/lettering_support_19",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 107120,
+    "style": 2,
+    "name": "Lettering Support 20",
+    "end_point": "lettering_support/lettering_support_20",
+    "family": "accessoryCircular",
+    "premium": true
+  }
+]

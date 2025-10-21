@@ -1,0 +1,162 @@
+[
+  {
+    "id": 10411,
+    "style": 2,
+    "name": "Greetings 2 1",
+    "end_point": "greetings2/greetings2_1",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10412,
+    "style": 2,
+    "name": "Greetings 2 2",
+    "end_point": "greetings2/greetings2_2",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10413,
+    "style": 2,
+    "name": "Greetings 2 3",
+    "end_point": "greetings2/greetings2_3",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10414,
+    "style": 2,
+    "name": "Greetings 2 4",
+    "end_point": "greetings2/greetings2_4",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10415,
+    "style": 2,
+    "name": "Greetings 2 5",
+    "end_point": "greetings2/greetings2_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10416,
+    "style": 2,
+    "name": "Greetings 2 6",
+    "end_point": "greetings2/greetings2_6",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10417,
+    "style": 2,
+    "name": "Greetings 2 7",
+    "end_point": "greetings2/greetings2_7",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10418,
+    "style": 2,
+    "name": "Greetings 2 8",
+    "end_point": "greetings2/greetings2_8",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10419,
+    "style": 2,
+    "name": "Greetings 2 9",
+    "end_point": "greetings2/greetings2_9",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 104110,
+    "style": 2,
+    "name": "Greetings 2 10",
+    "end_point": "greetings2/greetings2_10",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 104111,
+    "style": 2,
+    "name": "Greetings 2 11",
+    "end_point": "greetings2/greetings2_11",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 104112,
+    "style": 2,
+    "name": "Greetings 2 12",
+    "end_point": "greetings2/greetings2_12",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 104113,
+    "style": 2,
+    "name": "Greetings 2 13",
+    "end_point": "greetings2/greetings2_13",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 104114,
+    "style": 2,
+    "name": "Greetings 2 14",
+    "end_point": "greetings2/greetings2_14",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 104115,
+    "style": 2,
+    "name": "Greetings 2 15",
+    "end_point": "greetings2/greetings2_15",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 104116,
+    "style": 2,
+    "name": "Greetings 2 16",
+    "end_point": "greetings2/greetings2_16",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 104117,
+    "style": 2,
+    "name": "Greetings 2 17",
+    "end_point": "greetings2/greetings2_17",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 104118,
+    "style": 2,
+    "name": "Greetings 2 18",
+    "end_point": "greetings2/greetings2_18",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 104119,
+    "style": 2,
+    "name": "Greetings 2 19",
+    "end_point": "greetings2/greetings2_19",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 104120,
+    "style": 2,
+    "name": "Greetings 2 20",
+    "end_point": "greetings2/greetings2_20",
+    "family": "accessoryCircular",
+    "premium": true
+  }
+]

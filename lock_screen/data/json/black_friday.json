@@ -1,0 +1,202 @@
+[
+  {
+    "id": 10081,
+    "style": 2,
+    "name": "Black Friday 1",
+    "end_point": "black_friday/black_friday_1",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10082,
+    "style": 2,
+    "name": "Black Friday 2",
+    "end_point": "black_friday/black_friday_2",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10083,
+    "style": 2,
+    "name": "Black Friday 3",
+    "end_point": "black_friday/black_friday_3",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10084,
+    "style": 2,
+    "name": "Black Friday 4",
+    "end_point": "black_friday/black_friday_4",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10085,
+    "style": 2,
+    "name": "Black Friday 5",
+    "end_point": "black_friday/black_friday_5",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10086,
+    "style": 2,
+    "name": "Black Friday 6",
+    "end_point": "black_friday/black_friday_6",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10087,
+    "style": 2,
+    "name": "Black Friday 7",
+    "end_point": "black_friday/black_friday_7",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10088,
+    "style": 2,
+    "name": "Black Friday 8",
+    "end_point": "black_friday/black_friday_8",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10089,
+    "style": 2,
+    "name": "Black Friday 9",
+    "end_point": "black_friday/black_friday_9",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100810,
+    "style": 2,
+    "name": "Black Friday 10",
+    "end_point": "black_friday/black_friday_10",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100811,
+    "style": 2,
+    "name": "Black Friday 11",
+    "end_point": "black_friday/black_friday_11",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100812,
+    "style": 2,
+    "name": "Black Friday 12",
+    "end_point": "black_friday/black_friday_12",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100813,
+    "style": 2,
+    "name": "Black Friday 13",
+    "end_point": "black_friday/black_friday_13",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100814,
+    "style": 2,
+    "name": "Black Friday 14",
+    "end_point": "black_friday/black_friday_14",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100815,
+    "style": 2,
+    "name": "Black Friday 15",
+    "end_point": "black_friday/black_friday_15",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100816,
+    "style": 2,
+    "name": "Black Friday 16",
+    "end_point": "black_friday/black_friday_16",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100817,
+    "style": 2,
+    "name": "Black Friday 17",
+    "end_point": "black_friday/black_friday_17",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100818,
+    "style": 2,
+    "name": "Black Friday 18",
+    "end_point": "black_friday/black_friday_18",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100819,
+    "style": 2,
+    "name": "Black Friday 19",
+    "end_point": "black_friday/black_friday_19",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100820,
+    "style": 2,
+    "name": "Black Friday 20",
+    "end_point": "black_friday/black_friday_20",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100821,
+    "style": 2,
+    "name": "Black Friday 21",
+    "end_point": "black_friday/black_friday_21",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100822,
+    "style": 2,
+    "name": "Black Friday 22",
+    "end_point": "black_friday/black_friday_22",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100823,
+    "style": 2,
+    "name": "Black Friday 23",
+    "end_point": "black_friday/black_friday_23",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100824,
+    "style": 2,
+    "name": "Black Friday 24",
+    "end_point": "black_friday/black_friday_24",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100825,
+    "style": 2,
+    "name": "Black Friday 25",
+    "end_point": "black_friday/black_friday_25",
+    "family": "accessoryCircular",
+    "premium": true
+  }
+]

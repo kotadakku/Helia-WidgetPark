@@ -1,0 +1,402 @@
+[
+  {
+    "id": 10041,
+    "style": 2,
+    "name": "Animals 1",
+    "end_point": "animals/animals_1",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10042,
+    "style": 2,
+    "name": "Elephants",
+    "end_point": "animals/animals_2",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10043,
+    "style": 2,
+    "name": "Animals 3",
+    "end_point": "animals/animals_3",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10044,
+    "style": 2,
+    "name": "Animals 4",
+    "end_point": "animals/animals_4",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10045,
+    "style": 2,
+    "name": "Animals 5",
+    "end_point": "animals/animals_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10046,
+    "style": 2,
+    "name": "Animals 6",
+    "end_point": "animals/animals_6",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10047,
+    "style": 2,
+    "name": "Animals 7",
+    "end_point": "animals/animals_7",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10048,
+    "style": 2,
+    "name": "Animals 8",
+    "end_point": "animals/animals_8",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10049,
+    "style": 2,
+    "name": "Animals 9",
+    "end_point": "animals/animals_9",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100410,
+    "style": 2,
+    "name": "Animals 10",
+    "end_point": "animals/animals_10",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100411,
+    "style": 2,
+    "name": "Animals 11",
+    "end_point": "animals/animals_11",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100412,
+    "style": 2,
+    "name": "Animals 12",
+    "end_point": "animals/animals_12",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100413,
+    "style": 2,
+    "name": "Animals 13",
+    "end_point": "animals/animals_13",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100414,
+    "style": 2,
+    "name": "Animals 14",
+    "end_point": "animals/animals_14",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100415,
+    "style": 2,
+    "name": "Animals 15",
+    "end_point": "animals/animals_15",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100416,
+    "style": 2,
+    "name": "Animals 16",
+    "end_point": "animals/animals_16",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100417,
+    "style": 2,
+    "name": "Animals 17",
+    "end_point": "animals/animals_17",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100418,
+    "style": 2,
+    "name": "Animals 18",
+    "end_point": "animals/animals_18",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100419,
+    "style": 2,
+    "name": "Animals 19",
+    "end_point": "animals/animals_19",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100420,
+    "style": 2,
+    "name": "Animals 20",
+    "end_point": "animals/animals_20",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100421,
+    "style": 2,
+    "name": "Animals 21",
+    "end_point": "animals/animals_21",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100422,
+    "style": 2,
+    "name": "Animals 22",
+    "end_point": "animals/animals_22",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100423,
+    "style": 2,
+    "name": "Animals 23",
+    "end_point": "animals/animals_23",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100424,
+    "style": 2,
+    "name": "Animals 24",
+    "end_point": "animals/animals_24",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100425,
+    "style": 2,
+    "name": "Animals 25",
+    "end_point": "animals/animals_25",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100426,
+    "style": 2,
+    "name": "Animals 26",
+    "end_point": "animals/animals_26",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100427,
+    "style": 2,
+    "name": "Animals 27",
+    "end_point": "animals/animals_27",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100428,
+    "style": 2,
+    "name": "Animals 28",
+    "end_point": "animals/animals_28",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100429,
+    "style": 2,
+    "name": "Animals 29",
+    "end_point": "animals/animals_29",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100430,
+    "style": 2,
+    "name": "Animals 30",
+    "end_point": "animals/animals_30",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100431,
+    "style": 2,
+    "name": "Animals 31",
+    "end_point": "animals/animals_31",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100432,
+    "style": 2,
+    "name": "Animals 32",
+    "end_point": "animals/animals_32",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100433,
+    "style": 2,
+    "name": "Animals 33",
+    "end_point": "animals/animals_33",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100434,
+    "style": 2,
+    "name": "Animals 34",
+    "end_point": "animals/animals_34",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100435,
+    "style": 2,
+    "name": "Animals 35",
+    "end_point": "animals/animals_35",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100436,
+    "style": 2,
+    "name": "Animals 36",
+    "end_point": "animals/animals_36",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100437,
+    "style": 2,
+    "name": "Animals 37",
+    "end_point": "animals/animals_37",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100438,
+    "style": 2,
+    "name": "Animals 38",
+    "end_point": "animals/animals_38",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100439,
+    "style": 2,
+    "name": "Animals 39",
+    "end_point": "animals/animals_39",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100440,
+    "style": 2,
+    "name": "Animals 40",
+    "end_point": "animals/animals_40",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100441,
+    "style": 2,
+    "name": "Animals 41",
+    "end_point": "animals/animals_41",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100442,
+    "style": 2,
+    "name": "Animals 42",
+    "end_point": "animals/animals_42",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100443,
+    "style": 2,
+    "name": "Animals 43",
+    "end_point": "animals/animals_43",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100444,
+    "style": 2,
+    "name": "Animals 44",
+    "end_point": "animals/animals_44",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100445,
+    "style": 2,
+    "name": "Animals 45",
+    "end_point": "animals/animals_45",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100446,
+    "style": 2,
+    "name": "Animals 46",
+    "end_point": "animals/animals_46",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100447,
+    "style": 2,
+    "name": "Animals 47",
+    "end_point": "animals/animals_47",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100448,
+    "style": 2,
+    "name": "Animals 48",
+    "end_point": "animals/animals_48",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100449,
+    "style": 2,
+    "name": "Animals 49",
+    "end_point": "animals/animals_49",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100450,
+    "style": 2,
+    "name": "Animals 50",
+    "end_point": "animals/animals_50",
+    "family": "accessoryCircular",
+    "premium": false
+  }
+]

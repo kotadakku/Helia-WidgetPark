@@ -1,0 +1,162 @@
+[
+  {
+    "id": 10541,
+    "style": 2,
+    "name": "Back to School 2 1",
+    "end_point": "back_to_school2/back_to_school2_1",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10542,
+    "style": 2,
+    "name": "Back to School 2 2",
+    "end_point": "back_to_school2/back_to_school2_2",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10543,
+    "style": 2,
+    "name": "Back to School 2 3",
+    "end_point": "back_to_school2/back_to_school2_3",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10544,
+    "style": 2,
+    "name": "Back to School 2 4",
+    "end_point": "back_to_school2/back_to_school2_4",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10545,
+    "style": 2,
+    "name": "Back to School 2 5",
+    "end_point": "back_to_school2/back_to_school2_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10546,
+    "style": 2,
+    "name": "Back to School 2 6",
+    "end_point": "back_to_school2/back_to_school2_6",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10547,
+    "style": 2,
+    "name": "Back to School 2 7",
+    "end_point": "back_to_school2/back_to_school2_7",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10548,
+    "style": 2,
+    "name": "Back to School 2 8",
+    "end_point": "back_to_school2/back_to_school2_8",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10549,
+    "style": 2,
+    "name": "Back to School 2 9",
+    "end_point": "back_to_school2/back_to_school2_9",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 105410,
+    "style": 2,
+    "name": "Back to School 2 10",
+    "end_point": "back_to_school2/back_to_school2_10",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 105411,
+    "style": 2,
+    "name": "Back to School 2 11",
+    "end_point": "back_to_school2/back_to_school2_11",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 105412,
+    "style": 2,
+    "name": "Back to School 2 12",
+    "end_point": "back_to_school2/back_to_school2_12",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 105413,
+    "style": 2,
+    "name": "Back to School 2 13",
+    "end_point": "back_to_school2/back_to_school2_13",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 105414,
+    "style": 2,
+    "name": "Back to School 2 14",
+    "end_point": "back_to_school2/back_to_school2_14",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 105415,
+    "style": 2,
+    "name": "Back to School 2 15",
+    "end_point": "back_to_school2/back_to_school2_15",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 105416,
+    "style": 2,
+    "name": "Back to School 2 16",
+    "end_point": "back_to_school2/back_to_school2_16",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 105417,
+    "style": 2,
+    "name": "Back to School 2 17",
+    "end_point": "back_to_school2/back_to_school2_17",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 105418,
+    "style": 2,
+    "name": "Back to School 2 18",
+    "end_point": "back_to_school2/back_to_school2_18",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 105419,
+    "style": 2,
+    "name": "Back to School 2 19",
+    "end_point": "back_to_school2/back_to_school2_19",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 105420,
+    "style": 2,
+    "name": "Back to School 2 20",
+    "end_point": "back_to_school2/back_to_school2_20",
+    "family": "accessoryCircular",
+    "premium": true
+  }
+]

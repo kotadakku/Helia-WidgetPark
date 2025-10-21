@@ -1,0 +1,218 @@
+[
+  {
+    "id": 10351,
+    "style": 2,
+    "name": "Days, Months & Seasons 1",
+    "end_point": "days_months_seasons/days_months_seasons_1",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10352,
+    "style": 2,
+    "name": "Days, Months & Seasons 2",
+    "end_point": "days_months_seasons/days_months_seasons_2",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10353,
+    "style": 2,
+    "name": "Days, Months & Seasons 3",
+    "end_point": "days_months_seasons/days_months_seasons_3",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10354,
+    "style": 2,
+    "name": "Days, Months & Seasons 4",
+    "end_point": "days_months_seasons/days_months_seasons_4",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10355,
+    "style": 2,
+    "name": "Days, Months & Seasons 5",
+    "end_point": "days_months_seasons/days_months_seasons_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10356,
+    "style": 2,
+    "name": "Days, Months & Seasons 6",
+    "end_point": "days_months_seasons/days_months_seasons_6",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10357,
+    "style": 2,
+    "name": "Days, Months & Seasons 7",
+    "end_point": "days_months_seasons/days_months_seasons_7",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10358,
+    "style": 2,
+    "name": "Days, Months & Seasons 8",
+    "end_point": "days_months_seasons/days_months_seasons_8",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10359,
+    "style": 2,
+    "name": "Days, Months & Seasons 9",
+    "end_point": "days_months_seasons/days_months_seasons_9",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103510,
+    "style": 2,
+    "name": "Days, Months & Seasons 10",
+    "end_point": "days_months_seasons/days_months_seasons_10",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103511,
+    "style": 2,
+    "name": "Days, Months & Seasons 11",
+    "end_point": "days_months_seasons/days_months_seasons_11",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103512,
+    "style": 2,
+    "name": "Days, Months & Seasons 12",
+    "end_point": "days_months_seasons/days_months_seasons_12",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103513,
+    "style": 2,
+    "name": "Days, Months & Seasons 13",
+    "end_point": "days_months_seasons/days_months_seasons_13",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103514,
+    "style": 2,
+    "name": "Days, Months & Seasons 14",
+    "end_point": "days_months_seasons/days_months_seasons_14",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103515,
+    "style": 2,
+    "name": "Days, Months & Seasons 15",
+    "end_point": "days_months_seasons/days_months_seasons_15",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103516,
+    "style": 2,
+    "name": "Days, Months & Seasons 16",
+    "end_point": "days_months_seasons/days_months_seasons_16",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103517,
+    "style": 2,
+    "name": "Days, Months & Seasons 17",
+    "end_point": "days_months_seasons/days_months_seasons_17",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103518,
+    "style": 2,
+    "name": "Days, Months & Seasons 18",
+    "end_point": "days_months_seasons/days_months_seasons_18",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103519,
+    "style": 2,
+    "name": "Days, Months & Seasons 19",
+    "end_point": "days_months_seasons/days_months_seasons_19",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103520,
+    "style": 2,
+    "name": "Days, Months & Seasons 20",
+    "end_point": "days_months_seasons/days_months_seasons_20",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103521,
+    "style": 2,
+    "name": "Days, Months & Seasons 21",
+    "end_point": "days_months_seasons/days_months_seasons_21",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103522,
+    "style": 2,
+    "name": "Days, Months & Seasons 22",
+    "end_point": "days_months_seasons/days_months_seasons_22",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103523,
+    "style": 2,
+    "name": "Days, Months & Seasons 23",
+    "end_point": "days_months_seasons/days_months_seasons_23",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103524,
+    "style": 2,
+    "name": "Days, Months & Seasons 24",
+    "end_point": "days_months_seasons/days_months_seasons_24",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103525,
+    "style": 2,
+    "name": "Days, Months & Seasons 25",
+    "end_point": "days_months_seasons/days_months_seasons_25",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103526,
+    "style": 2,
+    "name": "Days, Months & Seasons 26",
+    "end_point": "days_months_seasons/days_months_seasons_26",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103527,
+    "style": 2,
+    "name": "Days, Months & Seasons 27",
+    "end_point": "days_months_seasons/days_months_seasons_27",
+    "family": "accessoryCircular",
+    "premium": false
+  }
+]

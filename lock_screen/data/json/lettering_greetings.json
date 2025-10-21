@@ -1,0 +1,162 @@
+[
+  {
+    "id": 10651,
+    "style": 2,
+    "name": "Lettering Greetings 1",
+    "end_point": "lettering_greetings/lettering_greetings_1",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10652,
+    "style": 2,
+    "name": "Lettering Greetings 2",
+    "end_point": "lettering_greetings/lettering_greetings_2",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10653,
+    "style": 2,
+    "name": "Lettering Greetings 3",
+    "end_point": "lettering_greetings/lettering_greetings_3",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10654,
+    "style": 2,
+    "name": "Lettering Greetings 4",
+    "end_point": "lettering_greetings/lettering_greetings_4",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10655,
+    "style": 2,
+    "name": "Lettering Greetings 5",
+    "end_point": "lettering_greetings/lettering_greetings_5",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10656,
+    "style": 2,
+    "name": "Lettering Greetings 6",
+    "end_point": "lettering_greetings/lettering_greetings_6",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10657,
+    "style": 2,
+    "name": "Lettering Greetings 7",
+    "end_point": "lettering_greetings/lettering_greetings_7",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10658,
+    "style": 2,
+    "name": "Lettering Greetings 8",
+    "end_point": "lettering_greetings/lettering_greetings_8",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10659,
+    "style": 2,
+    "name": "Lettering Greetings 9",
+    "end_point": "lettering_greetings/lettering_greetings_9",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106510,
+    "style": 2,
+    "name": "Lettering Greetings 10",
+    "end_point": "lettering_greetings/lettering_greetings_10",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 106511,
+    "style": 2,
+    "name": "Lettering Greetings 11",
+    "end_point": "lettering_greetings/lettering_greetings_11",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106512,
+    "style": 2,
+    "name": "Lettering Greetings 12",
+    "end_point": "lettering_greetings/lettering_greetings_12",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106513,
+    "style": 2,
+    "name": "Lettering Greetings 13",
+    "end_point": "lettering_greetings/lettering_greetings_13",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 106514,
+    "style": 2,
+    "name": "Lettering Greetings 14",
+    "end_point": "lettering_greetings/lettering_greetings_14",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 106515,
+    "style": 2,
+    "name": "Lettering Greetings 15",
+    "end_point": "lettering_greetings/lettering_greetings_15",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106516,
+    "style": 2,
+    "name": "Lettering Greetings 16",
+    "end_point": "lettering_greetings/lettering_greetings_16",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 106517,
+    "style": 2,
+    "name": "Lettering Greetings 17",
+    "end_point": "lettering_greetings/lettering_greetings_17",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 106518,
+    "style": 2,
+    "name": "Lettering Greetings 18",
+    "end_point": "lettering_greetings/lettering_greetings_18",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 106519,
+    "style": 2,
+    "name": "Lettering Greetings 19",
+    "end_point": "lettering_greetings/lettering_greetings_19",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106520,
+    "style": 2,
+    "name": "Lettering Greetings 20",
+    "end_point": "lettering_greetings/lettering_greetings_20",
+    "family": "accessoryCircular",
+    "premium": false
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": 10021,
+    "style": 2,
+    "name": "Weather 1",
+    "end_point": "weather/weather_1",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10022,
+    "style": 2,
+    "name": "Weather 2",
+    "end_point": "weather/weather_2",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10023,
+    "style": 2,
+    "name": "Weather 3",
+    "end_point": "weather/weather_3",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10024,
+    "style": 2,
+    "name": "Weather 4",
+    "end_point": "weather/weather_4",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10025,
+    "style": 2,
+    "name": "Weather 5",
+    "end_point": "weather/weather_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10026,
+    "style": 2,
+    "name": "Weather 6",
+    "end_point": "weather/weather_6",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10027,
+    "style": 2,
+    "name": "Weather 7",
+    "end_point": "weather/weather_7",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10028,
+    "style": 2,
+    "name": "Weather 8",
+    "end_point": "weather/weather_8",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10029,
+    "style": 2,
+    "name": "Weather 9",
+    "end_point": "weather/weather_9",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100210,
+    "style": 2,
+    "name": "Weather 10",
+    "end_point": "weather/weather_10",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100211,
+    "style": 2,
+    "name": "Weather 11",
+    "end_point": "weather/weather_11",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100212,
+    "style": 2,
+    "name": "Weather 12",
+    "end_point": "weather/weather_12",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100213,
+    "style": 2,
+    "name": "Weather 13",
+    "end_point": "weather/weather_13",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100214,
+    "style": 2,
+    "name": "Weather 14",
+    "end_point": "weather/weather_14",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100215,
+    "style": 2,
+    "name": "Weather 15",
+    "end_point": "weather/weather_15",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100216,
+    "style": 2,
+    "name": "Weather 16",
+    "end_point": "weather/weather_16",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100217,
+    "style": 2,
+    "name": "Weather 17",
+    "end_point": "weather/weather_17",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100218,
+    "style": 2,
+    "name": "Weather 18",
+    "end_point": "weather/weather_18",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100219,
+    "style": 2,
+    "name": "Weather 19",
+    "end_point": "weather/weather_19",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100220,
+    "style": 2,
+    "name": "Weather 20",
+    "end_point": "weather/weather_20",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100221,
+    "style": 2,
+    "name": "Weather 21",
+    "end_point": "weather/weather_21",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100222,
+    "style": 2,
+    "name": "Weather 22",
+    "end_point": "weather/weather_22",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100223,
+    "style": 2,
+    "name": "Weather 23",
+    "end_point": "weather/weather_23",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100224,
+    "style": 2,
+    "name": "Weather 24",
+    "end_point": "weather/weather_24",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100225,
+    "style": 2,
+    "name": "Weather 25",
+    "end_point": "weather/weather_25",
+    "family": "accessoryCircular",
+    "premium": false
+  }
+]

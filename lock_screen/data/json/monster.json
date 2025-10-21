@@ -1,0 +1,402 @@
+[
+  {
+    "id": 10241,
+    "style": 2,
+    "name": "Monster 1",
+    "end_point": "monster/monster_1",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10242,
+    "style": 2,
+    "name": "Monster 2",
+    "end_point": "monster/monster_2",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10243,
+    "style": 2,
+    "name": "Monster 3",
+    "end_point": "monster/monster_3",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10244,
+    "style": 2,
+    "name": "Monster 4",
+    "end_point": "monster/monster_4",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10245,
+    "style": 2,
+    "name": "Monster 5",
+    "end_point": "monster/monster_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10246,
+    "style": 2,
+    "name": "Monster 6",
+    "end_point": "monster/monster_6",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10247,
+    "style": 2,
+    "name": "Monster 7",
+    "end_point": "monster/monster_7",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10248,
+    "style": 2,
+    "name": "Monster 8",
+    "end_point": "monster/monster_8",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10249,
+    "style": 2,
+    "name": "Monster 9",
+    "end_point": "monster/monster_9",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102410,
+    "style": 2,
+    "name": "Monster 10",
+    "end_point": "monster/monster_10",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102411,
+    "style": 2,
+    "name": "Monster 11",
+    "end_point": "monster/monster_11",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102412,
+    "style": 2,
+    "name": "Monster 12",
+    "end_point": "monster/monster_12",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102413,
+    "style": 2,
+    "name": "Monster 13",
+    "end_point": "monster/monster_13",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102414,
+    "style": 2,
+    "name": "Monster 14",
+    "end_point": "monster/monster_14",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102415,
+    "style": 2,
+    "name": "Monster 15",
+    "end_point": "monster/monster_15",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102416,
+    "style": 2,
+    "name": "Monster 16",
+    "end_point": "monster/monster_16",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102417,
+    "style": 2,
+    "name": "Monster 17",
+    "end_point": "monster/monster_17",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102418,
+    "style": 2,
+    "name": "Monster 18",
+    "end_point": "monster/monster_18",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102419,
+    "style": 2,
+    "name": "Monster 19",
+    "end_point": "monster/monster_19",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102420,
+    "style": 2,
+    "name": "Monster 20",
+    "end_point": "monster/monster_20",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102421,
+    "style": 2,
+    "name": "Monster 21",
+    "end_point": "monster/monster_21",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102422,
+    "style": 2,
+    "name": "Monster 22",
+    "end_point": "monster/monster_22",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102423,
+    "style": 2,
+    "name": "Monster 23",
+    "end_point": "monster/monster_23",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102424,
+    "style": 2,
+    "name": "Monster 24",
+    "end_point": "monster/monster_24",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102425,
+    "style": 2,
+    "name": "Monster 25",
+    "end_point": "monster/monster_25",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102426,
+    "style": 2,
+    "name": "Monster 26",
+    "end_point": "monster/monster_26",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102427,
+    "style": 2,
+    "name": "Monster 27",
+    "end_point": "monster/monster_27",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102428,
+    "style": 2,
+    "name": "Monster 28",
+    "end_point": "monster/monster_28",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102429,
+    "style": 2,
+    "name": "Monster 29",
+    "end_point": "monster/monster_29",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102430,
+    "style": 2,
+    "name": "Monster 30",
+    "end_point": "monster/monster_30",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102431,
+    "style": 2,
+    "name": "Monster 31",
+    "end_point": "monster/monster_31",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102432,
+    "style": 2,
+    "name": "Monster 32",
+    "end_point": "monster/monster_32",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102433,
+    "style": 2,
+    "name": "Monster 33",
+    "end_point": "monster/monster_33",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102434,
+    "style": 2,
+    "name": "Monster 34",
+    "end_point": "monster/monster_34",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102435,
+    "style": 2,
+    "name": "Monster 35",
+    "end_point": "monster/monster_35",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102436,
+    "style": 2,
+    "name": "Monster 36",
+    "end_point": "monster/monster_36",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102437,
+    "style": 2,
+    "name": "Monster 37",
+    "end_point": "monster/monster_37",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102438,
+    "style": 2,
+    "name": "Monster 38",
+    "end_point": "monster/monster_38",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102439,
+    "style": 2,
+    "name": "Monster 39",
+    "end_point": "monster/monster_39",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102440,
+    "style": 2,
+    "name": "Monster 40",
+    "end_point": "monster/monster_40",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102441,
+    "style": 2,
+    "name": "Monster 41",
+    "end_point": "monster/monster_41",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102442,
+    "style": 2,
+    "name": "Monster 42",
+    "end_point": "monster/monster_42",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102443,
+    "style": 2,
+    "name": "Monster 43",
+    "end_point": "monster/monster_43",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102444,
+    "style": 2,
+    "name": "Monster 44",
+    "end_point": "monster/monster_44",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102445,
+    "style": 2,
+    "name": "Monster 45",
+    "end_point": "monster/monster_45",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102446,
+    "style": 2,
+    "name": "Monster 46",
+    "end_point": "monster/monster_46",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102447,
+    "style": 2,
+    "name": "Monster 47",
+    "end_point": "monster/monster_47",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102448,
+    "style": 2,
+    "name": "Monster 48",
+    "end_point": "monster/monster_48",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102449,
+    "style": 2,
+    "name": "Monster 49",
+    "end_point": "monster/monster_49",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102450,
+    "style": 2,
+    "name": "Monster 50",
+    "end_point": "monster/monster_50",
+    "family": "accessoryCircular",
+    "premium": false
+  }
+]

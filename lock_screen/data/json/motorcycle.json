@@ -1,0 +1,162 @@
+[
+  {
+    "id": 10441,
+    "style": 2,
+    "name": "Motorcycle 1",
+    "end_point": "motorcycle/motorcycle_1",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10442,
+    "style": 2,
+    "name": "Motorcycle 2",
+    "end_point": "motorcycle/motorcycle_2",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10443,
+    "style": 2,
+    "name": "Motorcycle 3",
+    "end_point": "motorcycle/motorcycle_3",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10444,
+    "style": 2,
+    "name": "Motorcycle 4",
+    "end_point": "motorcycle/motorcycle_4",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10445,
+    "style": 2,
+    "name": "Motorcycle 5",
+    "end_point": "motorcycle/motorcycle_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10446,
+    "style": 2,
+    "name": "Motorcycle 6",
+    "end_point": "motorcycle/motorcycle_6",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10447,
+    "style": 2,
+    "name": "Motorcycle 7",
+    "end_point": "motorcycle/motorcycle_7",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10448,
+    "style": 2,
+    "name": "Motorcycle 8",
+    "end_point": "motorcycle/motorcycle_8",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10449,
+    "style": 2,
+    "name": "Motorcycle 9",
+    "end_point": "motorcycle/motorcycle_9",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 104410,
+    "style": 2,
+    "name": "Motorcycle 10",
+    "end_point": "motorcycle/motorcycle_10",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 104411,
+    "style": 2,
+    "name": "Motorcycle 11",
+    "end_point": "motorcycle/motorcycle_11",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 104412,
+    "style": 2,
+    "name": "Motorcycle 12",
+    "end_point": "motorcycle/motorcycle_12",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 104413,
+    "style": 2,
+    "name": "Motorcycle 13",
+    "end_point": "motorcycle/motorcycle_13",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 104414,
+    "style": 2,
+    "name": "Motorcycle 14",
+    "end_point": "motorcycle/motorcycle_14",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 104415,
+    "style": 2,
+    "name": "Motorcycle 15",
+    "end_point": "motorcycle/motorcycle_15",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 104416,
+    "style": 2,
+    "name": "Motorcycle 16",
+    "end_point": "motorcycle/motorcycle_16",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 104417,
+    "style": 2,
+    "name": "Motorcycle 17",
+    "end_point": "motorcycle/motorcycle_17",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 104418,
+    "style": 2,
+    "name": "Motorcycle 18",
+    "end_point": "motorcycle/motorcycle_18",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 104419,
+    "style": 2,
+    "name": "Motorcycle 19",
+    "end_point": "motorcycle/motorcycle_19",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 104420,
+    "style": 2,
+    "name": "Motorcycle 20",
+    "end_point": "motorcycle/motorcycle_20",
+    "family": "accessoryCircular",
+    "premium": false
+  }
+]

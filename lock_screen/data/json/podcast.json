@@ -1,0 +1,194 @@
+[
+  {
+    "id": 10201,
+    "style": 2,
+    "name": "Podcast 1",
+    "end_point": "podcast/podcast_1",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10202,
+    "style": 2,
+    "name": "Podcast 2",
+    "end_point": "podcast/podcast_2",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10203,
+    "style": 2,
+    "name": "Podcast 3",
+    "end_point": "podcast/podcast_3",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10204,
+    "style": 2,
+    "name": "Podcast 4",
+    "end_point": "podcast/podcast_4",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10205,
+    "style": 2,
+    "name": "Podcast 5",
+    "end_point": "podcast/podcast_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10206,
+    "style": 2,
+    "name": "Podcast 6",
+    "end_point": "podcast/podcast_6",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10207,
+    "style": 2,
+    "name": "Podcast 7",
+    "end_point": "podcast/podcast_7",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10208,
+    "style": 2,
+    "name": "Podcast 8",
+    "end_point": "podcast/podcast_8",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10209,
+    "style": 2,
+    "name": "Podcast 9",
+    "end_point": "podcast/podcast_9",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102010,
+    "style": 2,
+    "name": "Podcast 10",
+    "end_point": "podcast/podcast_10",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102011,
+    "style": 2,
+    "name": "Podcast 11",
+    "end_point": "podcast/podcast_11",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102012,
+    "style": 2,
+    "name": "Podcast 12",
+    "end_point": "podcast/podcast_12",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102013,
+    "style": 2,
+    "name": "Podcast 13",
+    "end_point": "podcast/podcast_13",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102014,
+    "style": 2,
+    "name": "Podcast 14",
+    "end_point": "podcast/podcast_14",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102015,
+    "style": 2,
+    "name": "Podcast 15",
+    "end_point": "podcast/podcast_15",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102016,
+    "style": 2,
+    "name": "Podcast 16",
+    "end_point": "podcast/podcast_16",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102017,
+    "style": 2,
+    "name": "Podcast 17",
+    "end_point": "podcast/podcast_17",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102018,
+    "style": 2,
+    "name": "Podcast 18",
+    "end_point": "podcast/podcast_18",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102019,
+    "style": 2,
+    "name": "Podcast 19",
+    "end_point": "podcast/podcast_19",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102020,
+    "style": 2,
+    "name": "Podcast 20",
+    "end_point": "podcast/podcast_20",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102021,
+    "style": 2,
+    "name": "Podcast 21",
+    "end_point": "podcast/podcast_21",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102022,
+    "style": 2,
+    "name": "Podcast 22",
+    "end_point": "podcast/podcast_22",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102023,
+    "style": 2,
+    "name": "Podcast 23",
+    "end_point": "podcast/podcast_23",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102024,
+    "style": 2,
+    "name": "Podcast 24",
+    "end_point": "podcast/podcast_24",
+    "family": "accessoryCircular",
+    "premium": false
+  }
+]

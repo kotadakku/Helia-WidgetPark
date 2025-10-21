@@ -1,0 +1,242 @@
+[
+  {
+    "id": 10181,
+    "style": 2,
+    "name": "Cosy Creatures 1",
+    "end_point": "cosy_creatures/cosy_creatures_1",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10182,
+    "style": 2,
+    "name": "Cosy Creatures 2",
+    "end_point": "cosy_creatures/cosy_creatures_2",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10183,
+    "style": 2,
+    "name": "Cosy Creatures 3",
+    "end_point": "cosy_creatures/cosy_creatures_3",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10184,
+    "style": 2,
+    "name": "Cosy Creatures 4",
+    "end_point": "cosy_creatures/cosy_creatures_4",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10185,
+    "style": 2,
+    "name": "Cosy Creatures 5",
+    "end_point": "cosy_creatures/cosy_creatures_5",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10186,
+    "style": 2,
+    "name": "Cosy Creatures 6",
+    "end_point": "cosy_creatures/cosy_creatures_6",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10187,
+    "style": 2,
+    "name": "Cosy Creatures 7",
+    "end_point": "cosy_creatures/cosy_creatures_7",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10188,
+    "style": 2,
+    "name": "Cosy Creatures 8",
+    "end_point": "cosy_creatures/cosy_creatures_8",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10189,
+    "style": 2,
+    "name": "Cosy Creatures 9",
+    "end_point": "cosy_creatures/cosy_creatures_9",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101810,
+    "style": 2,
+    "name": "Cosy Creatures 10",
+    "end_point": "cosy_creatures/cosy_creatures_10",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101811,
+    "style": 2,
+    "name": "Cosy Creatures 11",
+    "end_point": "cosy_creatures/cosy_creatures_11",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101812,
+    "style": 2,
+    "name": "Cosy Creatures 12",
+    "end_point": "cosy_creatures/cosy_creatures_12",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101813,
+    "style": 2,
+    "name": "Cosy Creatures 13",
+    "end_point": "cosy_creatures/cosy_creatures_13",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101814,
+    "style": 2,
+    "name": "Cosy Creatures 14",
+    "end_point": "cosy_creatures/cosy_creatures_14",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101815,
+    "style": 2,
+    "name": "Cosy Creatures 15",
+    "end_point": "cosy_creatures/cosy_creatures_15",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101816,
+    "style": 2,
+    "name": "Cosy Creatures 16",
+    "end_point": "cosy_creatures/cosy_creatures_16",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101817,
+    "style": 2,
+    "name": "Cosy Creatures 17",
+    "end_point": "cosy_creatures/cosy_creatures_17",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101818,
+    "style": 2,
+    "name": "Cosy Creatures 18",
+    "end_point": "cosy_creatures/cosy_creatures_18",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101819,
+    "style": 2,
+    "name": "Cosy Creatures 19",
+    "end_point": "cosy_creatures/cosy_creatures_19",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101820,
+    "style": 2,
+    "name": "Cosy Creatures 20",
+    "end_point": "cosy_creatures/cosy_creatures_20",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101821,
+    "style": 2,
+    "name": "Cosy Creatures 21",
+    "end_point": "cosy_creatures/cosy_creatures_21",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101822,
+    "style": 2,
+    "name": "Cosy Creatures 22",
+    "end_point": "cosy_creatures/cosy_creatures_22",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101823,
+    "style": 2,
+    "name": "Cosy Creatures 23",
+    "end_point": "cosy_creatures/cosy_creatures_23",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101824,
+    "style": 2,
+    "name": "Cosy Creatures 24",
+    "end_point": "cosy_creatures/cosy_creatures_24",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101825,
+    "style": 2,
+    "name": "Cosy Creatures 25",
+    "end_point": "cosy_creatures/cosy_creatures_25",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101826,
+    "style": 2,
+    "name": "Cosy Creatures 26",
+    "end_point": "cosy_creatures/cosy_creatures_26",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101827,
+    "style": 2,
+    "name": "Cosy Creatures 27",
+    "end_point": "cosy_creatures/cosy_creatures_27",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101828,
+    "style": 2,
+    "name": "Cosy Creatures 28",
+    "end_point": "cosy_creatures/cosy_creatures_28",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101829,
+    "style": 2,
+    "name": "Cosy Creatures 29",
+    "end_point": "cosy_creatures/cosy_creatures_29",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101830,
+    "style": 2,
+    "name": "Cosy Creatures 30",
+    "end_point": "cosy_creatures/cosy_creatures_30",
+    "family": "accessoryCircular",
+    "premium": false
+  }
+]

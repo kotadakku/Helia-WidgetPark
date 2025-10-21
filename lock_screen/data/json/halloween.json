@@ -1,0 +1,402 @@
+[
+  {
+    "id": 10121,
+    "style": 2,
+    "name": "Halloween 1",
+    "end_point": "halloween/halloween_1",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10122,
+    "style": 2,
+    "name": "Halloween 2",
+    "end_point": "halloween/halloween_2",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10123,
+    "style": 2,
+    "name": "Halloween 3",
+    "end_point": "halloween/halloween_3",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10124,
+    "style": 2,
+    "name": "Halloween 4",
+    "end_point": "halloween/halloween_4",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10125,
+    "style": 2,
+    "name": "Halloween 5",
+    "end_point": "halloween/halloween_5",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10126,
+    "style": 2,
+    "name": "Halloween 6",
+    "end_point": "halloween/halloween_6",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10127,
+    "style": 2,
+    "name": "Halloween 7",
+    "end_point": "halloween/halloween_7",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10128,
+    "style": 2,
+    "name": "Halloween 8",
+    "end_point": "halloween/halloween_8",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10129,
+    "style": 2,
+    "name": "Halloween 9",
+    "end_point": "halloween/halloween_9",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101210,
+    "style": 2,
+    "name": "Halloween 10",
+    "end_point": "halloween/halloween_10",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101211,
+    "style": 2,
+    "name": "Halloween 11",
+    "end_point": "halloween/halloween_11",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101212,
+    "style": 2,
+    "name": "Halloween 12",
+    "end_point": "halloween/halloween_12",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101213,
+    "style": 2,
+    "name": "Halloween 13",
+    "end_point": "halloween/halloween_13",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101214,
+    "style": 2,
+    "name": "Halloween 14",
+    "end_point": "halloween/halloween_14",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101215,
+    "style": 2,
+    "name": "Halloween 15",
+    "end_point": "halloween/halloween_15",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101216,
+    "style": 2,
+    "name": "Halloween 16",
+    "end_point": "halloween/halloween_16",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101217,
+    "style": 2,
+    "name": "Halloween 17",
+    "end_point": "halloween/halloween_17",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101218,
+    "style": 2,
+    "name": "Halloween 18",
+    "end_point": "halloween/halloween_18",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101219,
+    "style": 2,
+    "name": "Halloween 19",
+    "end_point": "halloween/halloween_19",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101220,
+    "style": 2,
+    "name": "Halloween 20",
+    "end_point": "halloween/halloween_20",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101221,
+    "style": 2,
+    "name": "Halloween 21",
+    "end_point": "halloween/halloween_21",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101222,
+    "style": 2,
+    "name": "Halloween 22",
+    "end_point": "halloween/halloween_22",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101223,
+    "style": 2,
+    "name": "Halloween 23",
+    "end_point": "halloween/halloween_23",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101224,
+    "style": 2,
+    "name": "Halloween 24",
+    "end_point": "halloween/halloween_24",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101225,
+    "style": 2,
+    "name": "Halloween 25",
+    "end_point": "halloween/halloween_25",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101226,
+    "style": 2,
+    "name": "Halloween 26",
+    "end_point": "halloween/halloween_26",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101227,
+    "style": 2,
+    "name": "Halloween 27",
+    "end_point": "halloween/halloween_27",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101228,
+    "style": 2,
+    "name": "Halloween 28",
+    "end_point": "halloween/halloween_28",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101229,
+    "style": 2,
+    "name": "Halloween 29",
+    "end_point": "halloween/halloween_29",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101230,
+    "style": 2,
+    "name": "Halloween 30",
+    "end_point": "halloween/halloween_30",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101231,
+    "style": 2,
+    "name": "Halloween 31",
+    "end_point": "halloween/halloween_31",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101232,
+    "style": 2,
+    "name": "Halloween 32",
+    "end_point": "halloween/halloween_32",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101233,
+    "style": 2,
+    "name": "Halloween 33",
+    "end_point": "halloween/halloween_33",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101234,
+    "style": 2,
+    "name": "Halloween 34",
+    "end_point": "halloween/halloween_34",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101235,
+    "style": 2,
+    "name": "Halloween 35",
+    "end_point": "halloween/halloween_35",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101236,
+    "style": 2,
+    "name": "Halloween 36",
+    "end_point": "halloween/halloween_36",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101237,
+    "style": 2,
+    "name": "Halloween 37",
+    "end_point": "halloween/halloween_37",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101238,
+    "style": 2,
+    "name": "Halloween 38",
+    "end_point": "halloween/halloween_38",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101239,
+    "style": 2,
+    "name": "Halloween 39",
+    "end_point": "halloween/halloween_39",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101240,
+    "style": 2,
+    "name": "Halloween 40",
+    "end_point": "halloween/halloween_40",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101241,
+    "style": 2,
+    "name": "Halloween 41",
+    "end_point": "halloween/halloween_41",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101242,
+    "style": 2,
+    "name": "Halloween 42",
+    "end_point": "halloween/halloween_42",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101243,
+    "style": 2,
+    "name": "Halloween 43",
+    "end_point": "halloween/halloween_43",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101244,
+    "style": 2,
+    "name": "Halloween 44",
+    "end_point": "halloween/halloween_44",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101245,
+    "style": 2,
+    "name": "Halloween 45",
+    "end_point": "halloween/halloween_45",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101246,
+    "style": 2,
+    "name": "Halloween 46",
+    "end_point": "halloween/halloween_46",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101247,
+    "style": 2,
+    "name": "Halloween 47",
+    "end_point": "halloween/halloween_47",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101248,
+    "style": 2,
+    "name": "Halloween 48",
+    "end_point": "halloween/halloween_48",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101249,
+    "style": 2,
+    "name": "Halloween 49",
+    "end_point": "halloween/halloween_49",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101250,
+    "style": 2,
+    "name": "Halloween 50",
+    "end_point": "halloween/halloween_50",
+    "family": "accessoryCircular",
+    "premium": false
+  }
+]

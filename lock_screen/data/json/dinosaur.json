@@ -1,0 +1,202 @@
+[
+  {
+    "id": 10191,
+    "style": 2,
+    "name": "Dinosaur 1",
+    "end_point": "dinosaur/dinosaur_1",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10192,
+    "style": 2,
+    "name": "Dinosaur 2",
+    "end_point": "dinosaur/dinosaur_2",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10193,
+    "style": 2,
+    "name": "Dinosaur 3",
+    "end_point": "dinosaur/dinosaur_3",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10194,
+    "style": 2,
+    "name": "Dinosaur 4",
+    "end_point": "dinosaur/dinosaur_4",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10195,
+    "style": 2,
+    "name": "Dinosaur 5",
+    "end_point": "dinosaur/dinosaur_5",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10196,
+    "style": 2,
+    "name": "Dinosaur 6",
+    "end_point": "dinosaur/dinosaur_6",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10197,
+    "style": 2,
+    "name": "Dinosaur 7",
+    "end_point": "dinosaur/dinosaur_7",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10198,
+    "style": 2,
+    "name": "Dinosaur 8",
+    "end_point": "dinosaur/dinosaur_8",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10199,
+    "style": 2,
+    "name": "Dinosaur 9",
+    "end_point": "dinosaur/dinosaur_9",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101910,
+    "style": 2,
+    "name": "Dinosaur 10",
+    "end_point": "dinosaur/dinosaur_10",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101911,
+    "style": 2,
+    "name": "Dinosaur 11",
+    "end_point": "dinosaur/dinosaur_11",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101912,
+    "style": 2,
+    "name": "Dinosaur 12",
+    "end_point": "dinosaur/dinosaur_12",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101913,
+    "style": 2,
+    "name": "Dinosaur 13",
+    "end_point": "dinosaur/dinosaur_13",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101914,
+    "style": 2,
+    "name": "Dinosaur 14",
+    "end_point": "dinosaur/dinosaur_14",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101915,
+    "style": 2,
+    "name": "Dinosaur 15",
+    "end_point": "dinosaur/dinosaur_15",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101916,
+    "style": 2,
+    "name": "Dinosaur 16",
+    "end_point": "dinosaur/dinosaur_16",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101917,
+    "style": 2,
+    "name": "Dinosaur 17",
+    "end_point": "dinosaur/dinosaur_17",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101918,
+    "style": 2,
+    "name": "Dinosaur 18",
+    "end_point": "dinosaur/dinosaur_18",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101919,
+    "style": 2,
+    "name": "Dinosaur 19",
+    "end_point": "dinosaur/dinosaur_19",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101920,
+    "style": 2,
+    "name": "Dinosaur 20",
+    "end_point": "dinosaur/dinosaur_20",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101921,
+    "style": 2,
+    "name": "Dinosaur 21",
+    "end_point": "dinosaur/dinosaur_21",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101922,
+    "style": 2,
+    "name": "Dinosaur 22",
+    "end_point": "dinosaur/dinosaur_22",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101923,
+    "style": 2,
+    "name": "Dinosaur 23",
+    "end_point": "dinosaur/dinosaur_23",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101924,
+    "style": 2,
+    "name": "Dinosaur 24",
+    "end_point": "dinosaur/dinosaur_24",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101925,
+    "style": 2,
+    "name": "Dinosaur 25",
+    "end_point": "dinosaur/dinosaur_25",
+    "family": "accessoryCircular",
+    "premium": false
+  }
+]

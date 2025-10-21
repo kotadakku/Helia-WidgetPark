@@ -1,0 +1,202 @@
+[
+  {
+    "id": 10101,
+    "style": 2,
+    "name": "Christmas 1",
+    "end_point": "christmas/christmas_1",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10102,
+    "style": 2,
+    "name": "Christmas 2",
+    "end_point": "christmas/christmas_2",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10103,
+    "style": 2,
+    "name": "Christmas 3",
+    "end_point": "christmas/christmas_3",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10104,
+    "style": 2,
+    "name": "Christmas 4",
+    "end_point": "christmas/christmas_4",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10105,
+    "style": 2,
+    "name": "Christmas 5",
+    "end_point": "christmas/christmas_5",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10106,
+    "style": 2,
+    "name": "Christmas 6",
+    "end_point": "christmas/christmas_6",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10107,
+    "style": 2,
+    "name": "Christmas 7",
+    "end_point": "christmas/christmas_7",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10108,
+    "style": 2,
+    "name": "Christmas 8",
+    "end_point": "christmas/christmas_8",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10109,
+    "style": 2,
+    "name": "Christmas 9",
+    "end_point": "christmas/christmas_9",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101010,
+    "style": 2,
+    "name": "Christmas 10",
+    "end_point": "christmas/christmas_10",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101011,
+    "style": 2,
+    "name": "Christmas 11",
+    "end_point": "christmas/christmas_11",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101012,
+    "style": 2,
+    "name": "Christmas 12",
+    "end_point": "christmas/christmas_12",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101013,
+    "style": 2,
+    "name": "Christmas 13",
+    "end_point": "christmas/christmas_13",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101014,
+    "style": 2,
+    "name": "Christmas 14",
+    "end_point": "christmas/christmas_14",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101015,
+    "style": 2,
+    "name": "Christmas 15",
+    "end_point": "christmas/christmas_15",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101016,
+    "style": 2,
+    "name": "Christmas 16",
+    "end_point": "christmas/christmas_16",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101017,
+    "style": 2,
+    "name": "Christmas 17",
+    "end_point": "christmas/christmas_17",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101018,
+    "style": 2,
+    "name": "Christmas 18",
+    "end_point": "christmas/christmas_18",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101019,
+    "style": 2,
+    "name": "Christmas 19",
+    "end_point": "christmas/christmas_19",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101020,
+    "style": 2,
+    "name": "Christmas 20",
+    "end_point": "christmas/christmas_20",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101021,
+    "style": 2,
+    "name": "Christmas 21",
+    "end_point": "christmas/christmas_21",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101022,
+    "style": 2,
+    "name": "Christmas 22",
+    "end_point": "christmas/christmas_22",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101023,
+    "style": 2,
+    "name": "Christmas 23",
+    "end_point": "christmas/christmas_23",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101024,
+    "style": 2,
+    "name": "Christmas 24",
+    "end_point": "christmas/christmas_24",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101025,
+    "style": 2,
+    "name": "Christmas 25",
+    "end_point": "christmas/christmas_25",
+    "family": "accessoryCircular",
+    "premium": true
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "id": 10051,
+    "style": 2,
+    "name": "Pokemon 1",
+    "end_point": "pokemon/pokemon_1",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10052,
+    "style": 2,
+    "name": "Pokemon 2",
+    "end_point": "pokemon/pokemon_2",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10053,
+    "style": 2,
+    "name": "Pokemon 3",
+    "end_point": "pokemon/pokemon_3",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10054,
+    "style": 2,
+    "name": "Pokemon 4",
+    "end_point": "pokemon/pokemon_4",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10055,
+    "style": 2,
+    "name": "Pokemon 5",
+    "end_point": "pokemon/pokemon_5",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10056,
+    "style": 2,
+    "name": "Pokemon 6",
+    "end_point": "pokemon/pokemon_6",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10057,
+    "style": 2,
+    "name": "Pokemon 7",
+    "end_point": "pokemon/pokemon_7",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10058,
+    "style": 2,
+    "name": "Pokemon 8",
+    "end_point": "pokemon/pokemon_8",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10059,
+    "style": 2,
+    "name": "Pokemon 9",
+    "end_point": "pokemon/pokemon_9",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100510,
+    "style": 2,
+    "name": "Pokemon 10",
+    "end_point": "pokemon/pokemon_10",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100511,
+    "style": 2,
+    "name": "Pokemon 11",
+    "end_point": "pokemon/pokemon_11",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100512,
+    "style": 2,
+    "name": "Pokemon 12",
+    "end_point": "pokemon/pokemon_12",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100513,
+    "style": 2,
+    "name": "Pokemon 13",
+    "end_point": "pokemon/pokemon_13",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100514,
+    "style": 2,
+    "name": "Pokemon 14",
+    "end_point": "pokemon/pokemon_14",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100515,
+    "style": 2,
+    "name": "Pokemon 15",
+    "end_point": "pokemon/pokemon_15",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100516,
+    "style": 2,
+    "name": "Pokemon 16",
+    "end_point": "pokemon/pokemon_16",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100517,
+    "style": 2,
+    "name": "Pokemon 17",
+    "end_point": "pokemon/pokemon_17",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100518,
+    "style": 2,
+    "name": "Pokemon 18",
+    "end_point": "pokemon/pokemon_18",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100519,
+    "style": 2,
+    "name": "Pokemon 19",
+    "end_point": "pokemon/pokemon_19",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100520,
+    "style": 2,
+    "name": "Pokemon 20",
+    "end_point": "pokemon/pokemon_20",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100521,
+    "style": 2,
+    "name": "Pokemon 21",
+    "end_point": "pokemon/pokemon_21",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100522,
+    "style": 2,
+    "name": "Pokemon 22",
+    "end_point": "pokemon/pokemon_22",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100523,
+    "style": 2,
+    "name": "Pokemon 23",
+    "end_point": "pokemon/pokemon_23",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100524,
+    "style": 2,
+    "name": "Pokemon 24",
+    "end_point": "pokemon/pokemon_24",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100525,
+    "style": 2,
+    "name": "Pokemon 25",
+    "end_point": "pokemon/pokemon_25",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100526,
+    "style": 2,
+    "name": "Pokemon 26",
+    "end_point": "pokemon/pokemon_26",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100527,
+    "style": 2,
+    "name": "Pokemon 27",
+    "end_point": "pokemon/pokemon_27",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100528,
+    "style": 2,
+    "name": "Pokemon 28",
+    "end_point": "pokemon/pokemon_28",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100529,
+    "style": 2,
+    "name": "Pokemon 29",
+    "end_point": "pokemon/pokemon_29",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100530,
+    "style": 2,
+    "name": "Pokemon 30",
+    "end_point": "pokemon/pokemon_30",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100531,
+    "style": 2,
+    "name": "Pokemon 31",
+    "end_point": "pokemon/pokemon_31",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100532,
+    "style": 2,
+    "name": "Pokemon 32",
+    "end_point": "pokemon/pokemon_32",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100533,
+    "style": 2,
+    "name": "Pokemon 33",
+    "end_point": "pokemon/pokemon_33",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100534,
+    "style": 2,
+    "name": "Pokemon 34",
+    "end_point": "pokemon/pokemon_34",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100535,
+    "style": 2,
+    "name": "Pokemon 35",
+    "end_point": "pokemon/pokemon_35",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100536,
+    "style": 2,
+    "name": "Pokemon 36",
+    "end_point": "pokemon/pokemon_36",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100537,
+    "style": 2,
+    "name": "Pokemon 37",
+    "end_point": "pokemon/pokemon_37",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100538,
+    "style": 2,
+    "name": "Pokemon 38",
+    "end_point": "pokemon/pokemon_38",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100539,
+    "style": 2,
+    "name": "Pokemon 39",
+    "end_point": "pokemon/pokemon_39",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100540,
+    "style": 2,
+    "name": "Pokemon 40",
+    "end_point": "pokemon/pokemon_40",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100541,
+    "style": 2,
+    "name": "Pokemon 41",
+    "end_point": "pokemon/pokemon_41",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100542,
+    "style": 2,
+    "name": "Pokemon 42",
+    "end_point": "pokemon/pokemon_42",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100543,
+    "style": 2,
+    "name": "Pokemon 43",
+    "end_point": "pokemon/pokemon_43",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100544,
+    "style": 2,
+    "name": "Pokemon 44",
+    "end_point": "pokemon/pokemon_44",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100545,
+    "style": 2,
+    "name": "Pokemon 45",
+    "end_point": "pokemon/pokemon_45",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100546,
+    "style": 2,
+    "name": "Pokemon 46",
+    "end_point": "pokemon/pokemon_46",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100547,
+    "style": 2,
+    "name": "Pokemon 47",
+    "end_point": "pokemon/pokemon_47",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100548,
+    "style": 2,
+    "name": "Pokemon 48",
+    "end_point": "pokemon/pokemon_48",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100549,
+    "style": 2,
+    "name": "Pokemon 49",
+    "end_point": "pokemon/pokemon_49",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100550,
+    "style": 2,
+    "name": "Pokemon 50",
+    "end_point": "pokemon/pokemon_50",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100551,
+    "style": 2,
+    "name": "Pokemon 51",
+    "end_point": "pokemon/pokemon_51",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100552,
+    "style": 2,
+    "name": "Pokemon 52",
+    "end_point": "pokemon/pokemon_52",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100553,
+    "style": 2,
+    "name": "Pokemon 53",
+    "end_point": "pokemon/pokemon_53",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100554,
+    "style": 2,
+    "name": "Pokemon 54",
+    "end_point": "pokemon/pokemon_54",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100555,
+    "style": 2,
+    "name": "Pokemon 55",
+    "end_point": "pokemon/pokemon_55",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100556,
+    "style": 2,
+    "name": "Pokemon 56",
+    "end_point": "pokemon/pokemon_56",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100557,
+    "style": 2,
+    "name": "Pokemon 57",
+    "end_point": "pokemon/pokemon_57",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100558,
+    "style": 2,
+    "name": "Pokemon 58",
+    "end_point": "pokemon/pokemon_58",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 100559,
+    "style": 2,
+    "name": "Pokemon 59",
+    "end_point": "pokemon/pokemon_59",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 100560,
+    "style": 2,
+    "name": "Pokemon 60",
+    "end_point": "pokemon/pokemon_60",
+    "family": "accessoryCircular",
+    "premium": false
+  }
+]

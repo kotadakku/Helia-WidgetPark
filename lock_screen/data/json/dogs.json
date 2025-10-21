@@ -1,0 +1,250 @@
+[
+  {
+    "id": 10211,
+    "style": 2,
+    "name": "Dogs 1",
+    "end_point": "dogs/dogs_1",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10212,
+    "style": 2,
+    "name": "Dogs 2",
+    "end_point": "dogs/dogs_2",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10213,
+    "style": 2,
+    "name": "Dogs 3",
+    "end_point": "dogs/dogs_3",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10214,
+    "style": 2,
+    "name": "Dogs 4",
+    "end_point": "dogs/dogs_4",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10215,
+    "style": 2,
+    "name": "Dogs 5",
+    "end_point": "dogs/dogs_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10216,
+    "style": 2,
+    "name": "Dogs 6",
+    "end_point": "dogs/dogs_6",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10217,
+    "style": 2,
+    "name": "Dogs 7",
+    "end_point": "dogs/dogs_7",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10218,
+    "style": 2,
+    "name": "Dogs 8",
+    "end_point": "dogs/dogs_8",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10219,
+    "style": 2,
+    "name": "Dogs 9",
+    "end_point": "dogs/dogs_9",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102110,
+    "style": 2,
+    "name": "Dogs 10",
+    "end_point": "dogs/dogs_10",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102111,
+    "style": 2,
+    "name": "Dogs 11",
+    "end_point": "dogs/dogs_11",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102112,
+    "style": 2,
+    "name": "Dogs 12",
+    "end_point": "dogs/dogs_12",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102113,
+    "style": 2,
+    "name": "Dogs 13",
+    "end_point": "dogs/dogs_13",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102114,
+    "style": 2,
+    "name": "Dogs 14",
+    "end_point": "dogs/dogs_14",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102115,
+    "style": 2,
+    "name": "Dogs 15",
+    "end_point": "dogs/dogs_15",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102116,
+    "style": 2,
+    "name": "Dogs 16",
+    "end_point": "dogs/dogs_16",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102117,
+    "style": 2,
+    "name": "Dogs 17",
+    "end_point": "dogs/dogs_17",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102118,
+    "style": 2,
+    "name": "Dogs 18",
+    "end_point": "dogs/dogs_18",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102119,
+    "style": 2,
+    "name": "Dogs 19",
+    "end_point": "dogs/dogs_19",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102120,
+    "style": 2,
+    "name": "Dogs 20",
+    "end_point": "dogs/dogs_20",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102121,
+    "style": 2,
+    "name": "Dogs 21",
+    "end_point": "dogs/dogs_21",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102122,
+    "style": 2,
+    "name": "Dogs 22",
+    "end_point": "dogs/dogs_22",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102123,
+    "style": 2,
+    "name": "Dogs 23",
+    "end_point": "dogs/dogs_23",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102124,
+    "style": 2,
+    "name": "Dogs 24",
+    "end_point": "dogs/dogs_24",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102125,
+    "style": 2,
+    "name": "Dogs 25",
+    "end_point": "dogs/dogs_25",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102126,
+    "style": 2,
+    "name": "Dogs 26",
+    "end_point": "dogs/dogs_26",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102127,
+    "style": 2,
+    "name": "Dogs 27",
+    "end_point": "dogs/dogs_27",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102128,
+    "style": 2,
+    "name": "Dogs 28",
+    "end_point": "dogs/dogs_28",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102129,
+    "style": 2,
+    "name": "Dogs 29",
+    "end_point": "dogs/dogs_29",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102130,
+    "style": 2,
+    "name": "Dogs 30",
+    "end_point": "dogs/dogs_30",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102131,
+    "style": 2,
+    "name": "Dogs 31",
+    "end_point": "dogs/dogs_31",
+    "family": "accessoryCircular",
+    "premium": false
+  }
+]

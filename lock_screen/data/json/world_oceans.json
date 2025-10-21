@@ -1,0 +1,194 @@
+[
+  {
+    "id": 10281,
+    "style": 2,
+    "name": "World Oceans 1",
+    "end_point": "world_oceans/world_oceans_1",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10282,
+    "style": 2,
+    "name": "World Oceans 2",
+    "end_point": "world_oceans/world_oceans_2",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10283,
+    "style": 2,
+    "name": "World Oceans 3",
+    "end_point": "world_oceans/world_oceans_3",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10284,
+    "style": 2,
+    "name": "World Oceans 4",
+    "end_point": "world_oceans/world_oceans_4",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10285,
+    "style": 2,
+    "name": "World Oceans 5",
+    "end_point": "world_oceans/world_oceans_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10286,
+    "style": 2,
+    "name": "World Oceans 6",
+    "end_point": "world_oceans/world_oceans_6",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10287,
+    "style": 2,
+    "name": "World Oceans 7",
+    "end_point": "world_oceans/world_oceans_7",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10288,
+    "style": 2,
+    "name": "World Oceans 8",
+    "end_point": "world_oceans/world_oceans_8",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10289,
+    "style": 2,
+    "name": "World Oceans 9",
+    "end_point": "world_oceans/world_oceans_9",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102810,
+    "style": 2,
+    "name": "World Oceans 10",
+    "end_point": "world_oceans/world_oceans_10",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102811,
+    "style": 2,
+    "name": "World Oceans 11",
+    "end_point": "world_oceans/world_oceans_11",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102812,
+    "style": 2,
+    "name": "World Oceans 12",
+    "end_point": "world_oceans/world_oceans_12",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102813,
+    "style": 2,
+    "name": "World Oceans 13",
+    "end_point": "world_oceans/world_oceans_13",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102814,
+    "style": 2,
+    "name": "World Oceans 14",
+    "end_point": "world_oceans/world_oceans_14",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102815,
+    "style": 2,
+    "name": "World Oceans 15",
+    "end_point": "world_oceans/world_oceans_15",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102816,
+    "style": 2,
+    "name": "World Oceans 16",
+    "end_point": "world_oceans/world_oceans_16",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102817,
+    "style": 2,
+    "name": "World Oceans 17",
+    "end_point": "world_oceans/world_oceans_17",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102818,
+    "style": 2,
+    "name": "World Oceans 18",
+    "end_point": "world_oceans/world_oceans_18",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102819,
+    "style": 2,
+    "name": "World Oceans 19",
+    "end_point": "world_oceans/world_oceans_19",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102820,
+    "style": 2,
+    "name": "World Oceans 20",
+    "end_point": "world_oceans/world_oceans_20",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102821,
+    "style": 2,
+    "name": "World Oceans 21",
+    "end_point": "world_oceans/world_oceans_21",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 102822,
+    "style": 2,
+    "name": "World Oceans 22",
+    "end_point": "world_oceans/world_oceans_22",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102823,
+    "style": 2,
+    "name": "World Oceans 23",
+    "end_point": "world_oceans/world_oceans_23",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 102824,
+    "style": 2,
+    "name": "World Oceans 24",
+    "end_point": "world_oceans/world_oceans_24",
+    "family": "accessoryCircular",
+    "premium": false
+  }
+]

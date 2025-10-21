@@ -1,0 +1,162 @@
+[
+  {
+    "id": 10641,
+    "style": 2,
+    "name": "Planner 4 1",
+    "end_point": "planner4/planner4_1",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10642,
+    "style": 2,
+    "name": "Planner 4 2",
+    "end_point": "planner4/planner4_2",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10643,
+    "style": 2,
+    "name": "Planner 4 3",
+    "end_point": "planner4/planner4_3",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10644,
+    "style": 2,
+    "name": "Planner 4 4",
+    "end_point": "planner4/planner4_4",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10645,
+    "style": 2,
+    "name": "Planner 4 5",
+    "end_point": "planner4/planner4_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10646,
+    "style": 2,
+    "name": "Planner 4 6",
+    "end_point": "planner4/planner4_6",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10647,
+    "style": 2,
+    "name": "Planner 4 7",
+    "end_point": "planner4/planner4_7",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10648,
+    "style": 2,
+    "name": "Planner 4 8",
+    "end_point": "planner4/planner4_8",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10649,
+    "style": 2,
+    "name": "Planner 4 9",
+    "end_point": "planner4/planner4_9",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 106410,
+    "style": 2,
+    "name": "Planner 4 10",
+    "end_point": "planner4/planner4_10",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106411,
+    "style": 2,
+    "name": "Planner 4 11",
+    "end_point": "planner4/planner4_11",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106412,
+    "style": 2,
+    "name": "Planner 4 12",
+    "end_point": "planner4/planner4_12",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106413,
+    "style": 2,
+    "name": "Planner 4 13",
+    "end_point": "planner4/planner4_13",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106414,
+    "style": 2,
+    "name": "Planner 4 14",
+    "end_point": "planner4/planner4_14",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106415,
+    "style": 2,
+    "name": "Planner 4 15",
+    "end_point": "planner4/planner4_15",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106416,
+    "style": 2,
+    "name": "Planner 4 16",
+    "end_point": "planner4/planner4_16",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106417,
+    "style": 2,
+    "name": "Planner 4 17",
+    "end_point": "planner4/planner4_17",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106418,
+    "style": 2,
+    "name": "Planner 4 18",
+    "end_point": "planner4/planner4_18",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 106419,
+    "style": 2,
+    "name": "Planner 4 19",
+    "end_point": "planner4/planner4_19",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106420,
+    "style": 2,
+    "name": "Planner 4 20",
+    "end_point": "planner4/planner4_20",
+    "family": "accessoryCircular",
+    "premium": false
+  }
+]

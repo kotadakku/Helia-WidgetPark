@@ -1,0 +1,402 @@
+[
+  {
+    "id": 10331,
+    "style": 2,
+    "name": "Alphabet 2 1",
+    "end_point": "alphabet2/alphabet2_1",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10332,
+    "style": 2,
+    "name": "Alphabet 2 2",
+    "end_point": "alphabet2/alphabet2_2",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10333,
+    "style": 2,
+    "name": "Alphabet 2 3",
+    "end_point": "alphabet2/alphabet2_3",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10334,
+    "style": 2,
+    "name": "Alphabet 2 4",
+    "end_point": "alphabet2/alphabet2_4",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10335,
+    "style": 2,
+    "name": "Alphabet 2 5",
+    "end_point": "alphabet2/alphabet2_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10336,
+    "style": 2,
+    "name": "Alphabet 2 6",
+    "end_point": "alphabet2/alphabet2_6",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10337,
+    "style": 2,
+    "name": "Alphabet 2 7",
+    "end_point": "alphabet2/alphabet2_7",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10338,
+    "style": 2,
+    "name": "Alphabet 2 8",
+    "end_point": "alphabet2/alphabet2_8",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10339,
+    "style": 2,
+    "name": "Alphabet 2 9",
+    "end_point": "alphabet2/alphabet2_9",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103310,
+    "style": 2,
+    "name": "Alphabet 2 10",
+    "end_point": "alphabet2/alphabet2_10",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103311,
+    "style": 2,
+    "name": "Alphabet 2 11",
+    "end_point": "alphabet2/alphabet2_11",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103312,
+    "style": 2,
+    "name": "Alphabet 2 12",
+    "end_point": "alphabet2/alphabet2_12",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103313,
+    "style": 2,
+    "name": "Alphabet 2 13",
+    "end_point": "alphabet2/alphabet2_13",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103314,
+    "style": 2,
+    "name": "Alphabet 2 14",
+    "end_point": "alphabet2/alphabet2_14",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103315,
+    "style": 2,
+    "name": "Alphabet 2 15",
+    "end_point": "alphabet2/alphabet2_15",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103316,
+    "style": 2,
+    "name": "Alphabet 2 16",
+    "end_point": "alphabet2/alphabet2_16",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103317,
+    "style": 2,
+    "name": "Alphabet 2 17",
+    "end_point": "alphabet2/alphabet2_17",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103318,
+    "style": 2,
+    "name": "Alphabet 2 18",
+    "end_point": "alphabet2/alphabet2_18",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103319,
+    "style": 2,
+    "name": "Alphabet 2 19",
+    "end_point": "alphabet2/alphabet2_19",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103320,
+    "style": 2,
+    "name": "Alphabet 2 20",
+    "end_point": "alphabet2/alphabet2_20",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103321,
+    "style": 2,
+    "name": "Alphabet 2 21",
+    "end_point": "alphabet2/alphabet2_21",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103322,
+    "style": 2,
+    "name": "Alphabet 2 22",
+    "end_point": "alphabet2/alphabet2_22",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103323,
+    "style": 2,
+    "name": "Alphabet 2 23",
+    "end_point": "alphabet2/alphabet2_23",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103324,
+    "style": 2,
+    "name": "Alphabet 2 24",
+    "end_point": "alphabet2/alphabet2_24",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103325,
+    "style": 2,
+    "name": "Alphabet 2 25",
+    "end_point": "alphabet2/alphabet2_25",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103326,
+    "style": 2,
+    "name": "Alphabet 2 26",
+    "end_point": "alphabet2/alphabet2_26",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103327,
+    "style": 2,
+    "name": "Alphabet 2 27",
+    "end_point": "alphabet2/alphabet2_27",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103328,
+    "style": 2,
+    "name": "Alphabet 2 28",
+    "end_point": "alphabet2/alphabet2_28",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103329,
+    "style": 2,
+    "name": "Alphabet 2 29",
+    "end_point": "alphabet2/alphabet2_29",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103330,
+    "style": 2,
+    "name": "Alphabet 2 30",
+    "end_point": "alphabet2/alphabet2_30",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103331,
+    "style": 2,
+    "name": "Alphabet 2 31",
+    "end_point": "alphabet2/alphabet2_31",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103332,
+    "style": 2,
+    "name": "Alphabet 2 32",
+    "end_point": "alphabet2/alphabet2_32",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103333,
+    "style": 2,
+    "name": "Alphabet 2 33",
+    "end_point": "alphabet2/alphabet2_33",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103334,
+    "style": 2,
+    "name": "Alphabet 2 34",
+    "end_point": "alphabet2/alphabet2_34",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103335,
+    "style": 2,
+    "name": "Alphabet 2 35",
+    "end_point": "alphabet2/alphabet2_35",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103336,
+    "style": 2,
+    "name": "Alphabet 2 36",
+    "end_point": "alphabet2/alphabet2_36",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103337,
+    "style": 2,
+    "name": "Alphabet 2 37",
+    "end_point": "alphabet2/alphabet2_37",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103338,
+    "style": 2,
+    "name": "Alphabet 2 38",
+    "end_point": "alphabet2/alphabet2_38",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103339,
+    "style": 2,
+    "name": "Alphabet 2 39",
+    "end_point": "alphabet2/alphabet2_39",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103340,
+    "style": 2,
+    "name": "Alphabet 2 40",
+    "end_point": "alphabet2/alphabet2_40",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103341,
+    "style": 2,
+    "name": "Alphabet 2 41",
+    "end_point": "alphabet2/alphabet2_41",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103342,
+    "style": 2,
+    "name": "Alphabet 2 42",
+    "end_point": "alphabet2/alphabet2_42",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103343,
+    "style": 2,
+    "name": "Alphabet 2 43",
+    "end_point": "alphabet2/alphabet2_43",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103344,
+    "style": 2,
+    "name": "Alphabet 2 44",
+    "end_point": "alphabet2/alphabet2_44",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103345,
+    "style": 2,
+    "name": "Alphabet 2 45",
+    "end_point": "alphabet2/alphabet2_45",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103346,
+    "style": 2,
+    "name": "Alphabet 2 46",
+    "end_point": "alphabet2/alphabet2_46",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103347,
+    "style": 2,
+    "name": "Alphabet 2 47",
+    "end_point": "alphabet2/alphabet2_47",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103348,
+    "style": 2,
+    "name": "Alphabet 2 48",
+    "end_point": "alphabet2/alphabet2_48",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103349,
+    "style": 2,
+    "name": "Alphabet 2 49",
+    "end_point": "alphabet2/alphabet2_49",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103350,
+    "style": 2,
+    "name": "Alphabet 2 50",
+    "end_point": "alphabet2/alphabet2_50",
+    "family": "accessoryCircular",
+    "premium": true
+  }
+]

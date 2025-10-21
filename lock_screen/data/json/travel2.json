@@ -1,0 +1,162 @@
+[
+  {
+    "id": 10501,
+    "style": 2,
+    "name": "Travel 2 1",
+    "end_point": "travel2/travel2_1",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10502,
+    "style": 2,
+    "name": "Travel 2 2",
+    "end_point": "travel2/travel2_2",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10503,
+    "style": 2,
+    "name": "Travel 2 3",
+    "end_point": "travel2/travel2_3",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10504,
+    "style": 2,
+    "name": "Travel 2 4",
+    "end_point": "travel2/travel2_4",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10505,
+    "style": 2,
+    "name": "Travel 2 5",
+    "end_point": "travel2/travel2_5",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10506,
+    "style": 2,
+    "name": "Travel 2 6",
+    "end_point": "travel2/travel2_6",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10507,
+    "style": 2,
+    "name": "Travel 2 7",
+    "end_point": "travel2/travel2_7",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10508,
+    "style": 2,
+    "name": "Travel 2 8",
+    "end_point": "travel2/travel2_8",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10509,
+    "style": 2,
+    "name": "Travel 2 9",
+    "end_point": "travel2/travel2_9",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 105010,
+    "style": 2,
+    "name": "Travel 2 10",
+    "end_point": "travel2/travel2_10",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 105011,
+    "style": 2,
+    "name": "Travel 2 11",
+    "end_point": "travel2/travel2_11",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 105012,
+    "style": 2,
+    "name": "Travel 2 12",
+    "end_point": "travel2/travel2_12",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 105013,
+    "style": 2,
+    "name": "Travel 2 13",
+    "end_point": "travel2/travel2_13",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 105014,
+    "style": 2,
+    "name": "Travel 2 14",
+    "end_point": "travel2/travel2_14",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 105015,
+    "style": 2,
+    "name": "Travel 2 15",
+    "end_point": "travel2/travel2_15",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 105016,
+    "style": 2,
+    "name": "Travel 2 16",
+    "end_point": "travel2/travel2_16",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 105017,
+    "style": 2,
+    "name": "Travel 2 17",
+    "end_point": "travel2/travel2_17",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 105018,
+    "style": 2,
+    "name": "Travel 2 18",
+    "end_point": "travel2/travel2_18",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 105019,
+    "style": 2,
+    "name": "Travel 2 19",
+    "end_point": "travel2/travel2_19",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 105020,
+    "style": 2,
+    "name": "Travel 2 20",
+    "end_point": "travel2/travel2_20",
+    "family": "accessoryCircular",
+    "premium": false
+  }
+]

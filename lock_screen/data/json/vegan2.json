@@ -1,0 +1,162 @@
+[
+  {
+    "id": 10481,
+    "style": 2,
+    "name": "Vegan 2 1",
+    "end_point": "vegan2/vegan2_1",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10482,
+    "style": 2,
+    "name": "Vegan 2 2",
+    "end_point": "vegan2/vegan2_2",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10483,
+    "style": 2,
+    "name": "Vegan 2 3",
+    "end_point": "vegan2/vegan2_3",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10484,
+    "style": 2,
+    "name": "Vegan 2 4",
+    "end_point": "vegan2/vegan2_4",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10485,
+    "style": 2,
+    "name": "Vegan 2 5",
+    "end_point": "vegan2/vegan2_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10486,
+    "style": 2,
+    "name": "Vegan 2 6",
+    "end_point": "vegan2/vegan2_6",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10487,
+    "style": 2,
+    "name": "Vegan 2 7",
+    "end_point": "vegan2/vegan2_7",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10488,
+    "style": 2,
+    "name": "Vegan 2 8",
+    "end_point": "vegan2/vegan2_8",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10489,
+    "style": 2,
+    "name": "Vegan 2 9",
+    "end_point": "vegan2/vegan2_9",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 104810,
+    "style": 2,
+    "name": "Vegan 2 10",
+    "end_point": "vegan2/vegan2_10",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 104811,
+    "style": 2,
+    "name": "Vegan 2 11",
+    "end_point": "vegan2/vegan2_11",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 104812,
+    "style": 2,
+    "name": "Vegan 2 12",
+    "end_point": "vegan2/vegan2_12",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 104813,
+    "style": 2,
+    "name": "Vegan 2 13",
+    "end_point": "vegan2/vegan2_13",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 104814,
+    "style": 2,
+    "name": "Vegan 2 14",
+    "end_point": "vegan2/vegan2_14",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 104815,
+    "style": 2,
+    "name": "Vegan 2 15",
+    "end_point": "vegan2/vegan2_15",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 104816,
+    "style": 2,
+    "name": "Vegan 2 16",
+    "end_point": "vegan2/vegan2_16",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 104817,
+    "style": 2,
+    "name": "Vegan 2 17",
+    "end_point": "vegan2/vegan2_17",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 104818,
+    "style": 2,
+    "name": "Vegan 2 18",
+    "end_point": "vegan2/vegan2_18",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 104819,
+    "style": 2,
+    "name": "Vegan 2 19",
+    "end_point": "vegan2/vegan2_19",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 104820,
+    "style": 2,
+    "name": "Vegan 2 20",
+    "end_point": "vegan2/vegan2_20",
+    "family": "accessoryCircular",
+    "premium": true
+  }
+]

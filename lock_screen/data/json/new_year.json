@@ -1,0 +1,202 @@
+[
+  {
+    "id": 10151,
+    "style": 2,
+    "name": "New year 1",
+    "end_point": "new_year/new_year_1",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10152,
+    "style": 2,
+    "name": "New year 2",
+    "end_point": "new_year/new_year_2",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10153,
+    "style": 2,
+    "name": "New year 3",
+    "end_point": "new_year/new_year_3",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10154,
+    "style": 2,
+    "name": "New year 4",
+    "end_point": "new_year/new_year_4",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10155,
+    "style": 2,
+    "name": "New year 5",
+    "end_point": "new_year/new_year_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10156,
+    "style": 2,
+    "name": "New year 6",
+    "end_point": "new_year/new_year_6",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10157,
+    "style": 2,
+    "name": "New year 7",
+    "end_point": "new_year/new_year_7",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10158,
+    "style": 2,
+    "name": "New year 8",
+    "end_point": "new_year/new_year_8",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10159,
+    "style": 2,
+    "name": "New year 9",
+    "end_point": "new_year/new_year_9",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101510,
+    "style": 2,
+    "name": "New year 10",
+    "end_point": "new_year/new_year_10",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101511,
+    "style": 2,
+    "name": "New year 11",
+    "end_point": "new_year/new_year_11",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101512,
+    "style": 2,
+    "name": "New year 12",
+    "end_point": "new_year/new_year_12",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101513,
+    "style": 2,
+    "name": "New year 13",
+    "end_point": "new_year/new_year_13",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101514,
+    "style": 2,
+    "name": "New year 14",
+    "end_point": "new_year/new_year_14",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101515,
+    "style": 2,
+    "name": "New year 15",
+    "end_point": "new_year/new_year_15",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101516,
+    "style": 2,
+    "name": "New year 16",
+    "end_point": "new_year/new_year_16",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101517,
+    "style": 2,
+    "name": "New year 17",
+    "end_point": "new_year/new_year_17",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101518,
+    "style": 2,
+    "name": "New year 18",
+    "end_point": "new_year/new_year_18",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101519,
+    "style": 2,
+    "name": "New year 19",
+    "end_point": "new_year/new_year_19",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101520,
+    "style": 2,
+    "name": "New year 20",
+    "end_point": "new_year/new_year_20",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101521,
+    "style": 2,
+    "name": "New year 21",
+    "end_point": "new_year/new_year_21",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 101522,
+    "style": 2,
+    "name": "New year 22",
+    "end_point": "new_year/new_year_22",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101523,
+    "style": 2,
+    "name": "New year 23",
+    "end_point": "new_year/new_year_23",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101524,
+    "style": 2,
+    "name": "New year 24",
+    "end_point": "new_year/new_year_24",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 101525,
+    "style": 2,
+    "name": "New year 25",
+    "end_point": "new_year/new_year_25",
+    "family": "accessoryCircular",
+    "premium": true
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": 10661,
+    "style": 2,
+    "name": "Lettering Positivity 1",
+    "end_point": "lettering_positivity/lettering_positivity_1",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10662,
+    "style": 2,
+    "name": "Lettering Positivity 2",
+    "end_point": "lettering_positivity/lettering_positivity_2",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10663,
+    "style": 2,
+    "name": "Lettering Positivity 3",
+    "end_point": "lettering_positivity/lettering_positivity_3",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10664,
+    "style": 2,
+    "name": "Lettering Positivity 4",
+    "end_point": "lettering_positivity/lettering_positivity_4",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10665,
+    "style": 2,
+    "name": "Lettering Positivity 5",
+    "end_point": "lettering_positivity/lettering_positivity_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10666,
+    "style": 2,
+    "name": "Lettering Positivity 6",
+    "end_point": "lettering_positivity/lettering_positivity_6",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10667,
+    "style": 2,
+    "name": "Lettering Positivity 7",
+    "end_point": "lettering_positivity/lettering_positivity_7",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10668,
+    "style": 2,
+    "name": "Lettering Positivity 8",
+    "end_point": "lettering_positivity/lettering_positivity_8",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10669,
+    "style": 2,
+    "name": "Lettering Positivity 9",
+    "end_point": "lettering_positivity/lettering_positivity_9",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106610,
+    "style": 2,
+    "name": "Lettering Positivity 10",
+    "end_point": "lettering_positivity/lettering_positivity_10",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106611,
+    "style": 2,
+    "name": "Lettering Positivity 11",
+    "end_point": "lettering_positivity/lettering_positivity_11",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 106612,
+    "style": 2,
+    "name": "Lettering Positivity 12",
+    "end_point": "lettering_positivity/lettering_positivity_12",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106613,
+    "style": 2,
+    "name": "Lettering Positivity 13",
+    "end_point": "lettering_positivity/lettering_positivity_13",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 106614,
+    "style": 2,
+    "name": "Lettering Positivity 14",
+    "end_point": "lettering_positivity/lettering_positivity_14",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106615,
+    "style": 2,
+    "name": "Lettering Positivity 15",
+    "end_point": "lettering_positivity/lettering_positivity_15",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106616,
+    "style": 2,
+    "name": "Lettering Positivity 16",
+    "end_point": "lettering_positivity/lettering_positivity_16",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 106617,
+    "style": 2,
+    "name": "Lettering Positivity 17",
+    "end_point": "lettering_positivity/lettering_positivity_17",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106618,
+    "style": 2,
+    "name": "Lettering Positivity 18",
+    "end_point": "lettering_positivity/lettering_positivity_18",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106619,
+    "style": 2,
+    "name": "Lettering Positivity 19",
+    "end_point": "lettering_positivity/lettering_positivity_19",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 106620,
+    "style": 2,
+    "name": "Lettering Positivity 20",
+    "end_point": "lettering_positivity/lettering_positivity_20",
+    "family": "accessoryCircular",
+    "premium": true
+  }
+]

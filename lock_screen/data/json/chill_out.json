@@ -1,0 +1,162 @@
+[
+  {
+    "id": 10341,
+    "style": 2,
+    "name": "Chill out 1",
+    "end_point": "chill_out/chill_out_1",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10342,
+    "style": 2,
+    "name": "Chill out 2",
+    "end_point": "chill_out/chill_out_2",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10343,
+    "style": 2,
+    "name": "Chill out 3",
+    "end_point": "chill_out/chill_out_3",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10344,
+    "style": 2,
+    "name": "Chill out 4",
+    "end_point": "chill_out/chill_out_4",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10345,
+    "style": 2,
+    "name": "Chill out 5",
+    "end_point": "chill_out/chill_out_5",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10346,
+    "style": 2,
+    "name": "Chill out 6",
+    "end_point": "chill_out/chill_out_6",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 10347,
+    "style": 2,
+    "name": "Chill out 7",
+    "end_point": "chill_out/chill_out_7",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10348,
+    "style": 2,
+    "name": "Chill out 8",
+    "end_point": "chill_out/chill_out_8",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 10349,
+    "style": 2,
+    "name": "Chill out 9",
+    "end_point": "chill_out/chill_out_9",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103410,
+    "style": 2,
+    "name": "Chill out 10",
+    "end_point": "chill_out/chill_out_10",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103411,
+    "style": 2,
+    "name": "Chill out 11",
+    "end_point": "chill_out/chill_out_11",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103412,
+    "style": 2,
+    "name": "Chill out 12",
+    "end_point": "chill_out/chill_out_12",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103413,
+    "style": 2,
+    "name": "Chill out 13",
+    "end_point": "chill_out/chill_out_13",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103414,
+    "style": 2,
+    "name": "Chill out 14",
+    "end_point": "chill_out/chill_out_14",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103415,
+    "style": 2,
+    "name": "Chill out 15",
+    "end_point": "chill_out/chill_out_15",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103416,
+    "style": 2,
+    "name": "Chill out 16",
+    "end_point": "chill_out/chill_out_16",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103417,
+    "style": 2,
+    "name": "Chill out 17",
+    "end_point": "chill_out/chill_out_17",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103418,
+    "style": 2,
+    "name": "Chill out 18",
+    "end_point": "chill_out/chill_out_18",
+    "family": "accessoryCircular",
+    "premium": false
+  },
+  {
+    "id": 103419,
+    "style": 2,
+    "name": "Chill out 19",
+    "end_point": "chill_out/chill_out_19",
+    "family": "accessoryCircular",
+    "premium": true
+  },
+  {
+    "id": 103420,
+    "style": 2,
+    "name": "Chill out 20",
+    "end_point": "chill_out/chill_out_20",
+    "family": "accessoryCircular",
+    "premium": false
+  }
+]
